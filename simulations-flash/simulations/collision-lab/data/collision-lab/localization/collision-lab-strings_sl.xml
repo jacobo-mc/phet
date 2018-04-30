@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--collision-lab-strings_sl.xml created Wed Apr 18 11:31:01 CEST 2018 using: collision-lab 2.01.00 (69163), translation-utility 2.18.00 (74383) maj 28, 2015--><SimStrings>
+<string key="ShowValues.velocityCaption" value="Hitrost (m/s)"/>
+<string key="ControlPanel.showValues" value="Pokaži vrednosti"/>
+<string key="PlayPauseButtons.step" value="Korak"/>
+<string key="DataTable.velocity" value="Hitrost"/>
+<string key="MomentumView.total" value="tot"/>
+<string key="DataTable.positionWithUnits" value="Položaj (m)"/>
+<string key="ShowValues.speedReadout" value="| v | = {0}"/>
+<string key="ControlPanel.sound" value="Zvok"/>
+<string key="ControlPanel.showMomentumVectors" value="Vektorji gibalne količine"/>
+<string key="ShowValues.speedCaption" value="Hitrost (m/s)"/>
+<string key="ControlPanel.oneHundredPercent" value="Elastično"/>
+<string key="DataTable.lessData" value="Manj podatkov"/>
+<string key="DataTable.momentumWithUnits" value="Gibalna količina (kg m/s)"/>
+<string key="MomentumView.momenta" value="Gibalna količina"/>
+<string key="DataTable.units.kilogramMetersPerSecond" value="kg m/s"/>
+<string key="ControlPanel.elasticityReadout" value="Elastičnost {0}%"/>
+<string key="DataTable.ball" value="Žoga"/>
+<string key="TableView.kineticEnergy" value="kinetična energija = {0} J"/>
+<string key="advancedTab" value="Napredno"/>
+<string key="ControlPanel.showVelocities" value="Vektorji hitrosti"/>
+<string key="ControlPanel.showPaths" value="Pokaži poti"/>
+<string key="DataTable.mass" value="Masa"/>
+<string key="DataTable.addBall" value="Dodaj žogo"/>
+<string key="DataTable.position" value="Položaj"/>
+<string key="DataTable.py" value="Py"/>
+<string key="DataTable.px" value="Px"/>
+<string key="DataTable.units.kilograms" value="kg"/>
+<string key="DataTable.units.metersPerSecond" value="m/s"/>
+<string key="ShowValues.momentumReadout" value="p = {0}"/>
+<string key="PlayPauseButtons.pause" value="Pavza"/>
+<string key="DataTable.vy" value="Vy"/>
+<string key="DataTable.vx" value="Vx"/>
+<string key="ControlPanel.2d" value="2 dimenziji"/>
+<string key="DataTable.moreData" value="Več podatkov"/>
+<string key="ControlPanel.reflectingBorder" value="Odbojna meja"/>
+<string key="DataTable.removeBall" value="Odstrani žogo"/>
+<string key="DataTable.momentum" value="GIbalna količina"/>
+<string key="DataTable.y" value="y"/>
+<string key="DataTable.x" value="x"/>
+<string key="ShowValues.momentumCaption" value="Gibalna količina (kg m/s)"/>
+<string key="ControlPanel.resetAll" value="Resetiraj vse"/>
+<string key="ControlPanel.momentaDiagram" value="Diagram momenta"/>
+<string key="ControlPanel.elasticity" value="Elastičnost"/>
+<string key="DataTable.units.meters" value="m"/>
+<string key="ControlPanel.showCenterOfMass" value="Masni center"/>
+<string key="ControlPanel.zeroPercent" value="Neelastično"/>
+<string key="DataTable.velocityWithUnits" value="Hitrost (m/s)"/>
+<string key="ShowValues.absoluteMomentumReadout" value="| p | = {0}"/>
+<string key="TableView.returnBalls" value="Vrni žoge"/>
+<string key="DataTable.massWithUnits" value="Masa (kg)"/>
+<string key="introductionTab" value="Predstavitev"/>
+<string key="TableView.timeRate" value="Hitrost simulacije"/>
+<string key="simTitle" value="Laboratorij trkov"/>
+<string key="ShowValues.velocityReadout" value="v = {0}"/>
+<string key="PlayPauseButtons.play" value="Predvajaj"/>
+<string key="ControlPanel.kineticEnergy" value="Kinetična energija"/>
+<string key="MomentumView.tipToTail" value="od-vrha-do-dna"/>
+<string key="PlayPauseButtons.back" value="Nazaj"/>
+<string key="TableView.time" value="Čas = {0} s"/>
+<string key="ControlPanel.1d" value="1 dimenzija"/>
+<string key="PlayPauseButtons.rewind" value="Ponovni zagon"/>
+</SimStrings>
