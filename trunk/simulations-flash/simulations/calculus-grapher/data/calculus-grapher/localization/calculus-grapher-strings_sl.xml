@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--calculus-grapher-strings_sl.xml created Sun Apr 15 22:39:26 CEST 2018 using: calculus-grapher 2.08.00 (55025), translation-utility 2.18.00 (74383) maj 28, 2015--><SimStrings>
+<string key="integral" value="Integral"/>
+<string key="grid" value="Mreža"/>
+<string key="dragMe" value="Potegni me!"/>
+<string key="hill" value="Hrib"/>
+<string key="cursor" value="Utripač"/>
+<string key="simTitle" value="Risalnik funkcij"/>
+<string key="offset" value="Premik"/>
+<string key="freeform" value="Prostoročno"/>
+<string key="pedestal" value="Pedestal"/>
+<string key="line" value="Črta"/>
+<string key="drawingTools" value="Orodja za risanje"/>
+<string key="zero" value="Nič"/>
+<string key="view" value="Pogled"/>
+<string key="sine" value="Sinus"/>
+<string key="smooth" value="Gladko"/>
+<string key="tilt" value="Nagib"/>
+<string key="parabola" value="Parabola"/>
+<string key="derivative" value="Odvod"/>
+<string key="undo" value="Razveljavi"/>
+</SimStrings>
