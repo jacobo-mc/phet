@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--lunar-lander-strings_sl.xml created Thu May 03 07:37:44 CEST 2018 using: lunar-lander 2.04.00 (53815), translation-utility 2.18.00 (74383) maj 28, 2015--><SimStrings>
+<string key="empty" value="E"/>
+<string key="hardLanding" value="Trd pristanek"/>
+<string key="score" value="rezultat:"/>
+<string key="unpause" value="Brez_prestanka"/>
+<string key="range" value="doseg(m)"/>
+<string key="fuel" value="gorivo(kg)"/>
+<string key="translation.credits" value="Bobnaric Roman"/>
+<string key="altitude" value="višina (m)"/>
+<string key="help3" value="Pavza"/>
+<string key="help2" value="Ponastavi"/>
+<string key="help1" value="Kontrole na tipkah:"/>
+<string key="hitBoulder" value="Trk ob skalo. \nNoga poškodovana. \nIzguba goriva."/>
+<string key="start" value="Start"/>
+<string key="hardLandingsColon" value="trdi pristanki:"/>
+<string key="vY" value="v_y(m/s)"/>
+<string key="vX" value="v_x(m/s)"/>
+<string key="help" value="Pomoč/Pavza"/>
+<string key="sound" value="Zvok"/>
+<string key="vectors" value="Vektorji"/>
+<string key="reset" value="Ponastavi"/>
+<string key="longHelp" value="~  Pristani v čim več praznih območjih  preden ti zmanjka goriva..\n~ Po pristanu vzletiš s povečanjem pogona.\n~ Brez točk za pristanek v istem območju več kot enkrat.\n~ Več točk je za pristanke v manjših ali tećjih območjih:  \n     Enostavno veliko območje = 5 točk   to    Ubijalsko težko območje = 50 točk\n~ 10 dodatnih tčk za mehki pristanek ( v &lt; 2 m/s).\n~ Igre je konec, če se dotakneš skale. (Na skali ne moreš pristati!)\n~ Igre je konec, če se plovilo zruši. (v &gt; 12 m/s)."/>
+<string key="r" value="R"/>
+<string key="p" value="P"/>
+<string key="accVector" value="Vektor pospeška"/>
+<string key="softLanding" value="Mehki pristanek."/>
+<string key="thrust" value="pogon (N)"/>
+<string key="simTitle" value="Pristajalni modul"/>
+<string key="label7" value="Koliko praznih območij se ahko dotakneš preden ti zmanjka goriva? \nDodatne točke za mehki pristanek(v &lt; 2 m/s). \nIgre je konec, če se zaletiš v skalo ali pristaneš s trkom (v &gt; 6 m/s)."/>
+<string key="label6" value="Preslednica = Vklop/Izklop polnega pogona"/>
+<string key="label5" value="Nagib desno"/>
+<string key="crash2" value="Pristanek s trčenjem, ekipa je umrla."/>
+<string key="label4" value="Manj pogona"/>
+<string key="label3" value="Nagib levo"/>
+<string key="crash1" value="Pristanek s trčenjem, počkodovane pristajalne noge."/>
+<string key="softLandingsColon" value="mehki pristanek:"/>
+<string key="full" value="F"/>
+<string key="label2" value="Več pogona"/>
+<string key="paused" value="Pavza"/>
+<string key="label1" value="Nadzoruj pristajlni modul s tipkovnico"/>
+<string key="landingSpeedEq" value="Pristajalna hitrost ="/>
+<string key="velVector" value="Vektor hitrosti"/>
+</SimStrings>
