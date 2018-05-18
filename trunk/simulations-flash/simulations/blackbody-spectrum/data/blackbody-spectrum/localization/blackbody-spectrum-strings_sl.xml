@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--blackbody-spectrum-strings_sl.xml created Wed May 16 08:37:53 CEST 2018 using: blackbody-spectrum 2.02.00 (52705), translation-utility 2.18.00 (74383) maj 28, 2015--><SimStrings>
+<string key="r" value="R"/>
+<string key="translation.credits" value="Bobnaric Roman"/>
+<string key="zoomIn" value="približaj"/>
+<string key="intensity" value="jakost"/>
+<string key="simTitle" value="Spekter črnega telesa"/>
+<string key="zoomOut" value="oddalji"/>
+<string key="clear" value="Počisti"/>
+<string key="g" value="G"/>
+<string key="sun" value="Sonce"/>
+<string key="tempInK" value="T(K)"/>
+<string key="save" value="Shrani"/>
+<string key="showRuler" value="pokaži ravnilo"/>
+<string key="wavelength" value="valovna dolžina"/>
+<string key="b" value="B"/>
+<string key="oven" value="pečica"/>
+<string key="earth" value="Zemlja"/>
+<string key="lightBulb" value="žarnica"/>
+</SimStrings>
