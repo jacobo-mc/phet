@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--curve-fitting-strings_sl.xml created Thu May 03 07:26:12 CEST 2018 using: curve-fitting 2.02.00 (52265), translation-utility 2.18.00 (74383) maj 28, 2015--><SimStrings>
+<string key="cEquals" value="c ="/>
+<string key="clearAll" value="Počisti vse"/>
+<string key="deviations" value="pokaži odstopanje"/>
+<string key="bEquals" value="b ="/>
+<string key="aEquals" value="a ="/>
+<string key="quartic" value="Funkcija četrte stopnje"/>
+<string key="simTitle" value="Prilagajanje krivulje"/>
+<string key="bestFit" value="Najboljše prileganje"/>
+<string key="quadratic" value="Kvadratno"/>
+<string key="bucketHelp2" value=" ali vstavi nazaj"/>
+<string key="bucketHelp1" value="Pridobi točke--"/>
+<string key="cubic" value="Kubično"/>
+<string key="noFit" value="Brez prilagajanj"/>
+<string key="eEquals" value="e ="/>
+<string key="dEquals" value="d ="/>
+<string key="adjustableFit2" value="Prilagodljivo prilagajanje:"/>
+<string key="dataPointHelp" value="povlečne oznake napak"/>
+<string key="bestFit2" value="Najboljše prileganje:"/>
+<string key="correlation" value="koeficient korelacije"/>
+<string key="hideHelp" value="Skrij pomoč"/>
+<string key="bucketLabel" value="POdatkovne točke"/>
+<string key="chiSqHelp5" value=":   prilagajanje predobro (oznake napak so premajhne)"/>
+<string key="chiSqHelp4" value=":   zeleno prilagajanje   (zeleno področje)"/>
+<string key="chiSqHelp3" value=":   slabo prilagajanje   (rdeče področje)"/>
+<string key="chiSqHelp2" value="N = število podatkovnih točk \n f = tevilo parametrov  v prilagajanju  \n ( f = 4  za kubično funkcijo )"/>
+<string key="help" value="Pomoč"/>
+<string key="chiSqHelp1" value="Zmanjšan hi kvadrat statično je "/>
+<string key="adjustableFit" value="Prilagodljivo prilagajanje"/>
+<string key="translation.credits" value="Bobnaric Roman"/>
+<string key="linear" value="Linearno"/>
+</SimStrings>
