@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--calculus-grapher-strings_mn.xml created Wed Jul 11 00:48:09 ULAT 2018 using: calculus-grapher 2.08.00 (55025), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="integral" value="Интеграл"/>
+<string key="grid" value="Тор"/>
+<string key="dragMe" value="Намайг чир!"/>
+<string key="hill" value="Гүвээ"/>
+<string key="cursor" value="Заагч"/>
+<string key="simTitle" value="Графикийн тооцоолол"/>
+<string key="offset" value="Шилжих"/>
+<string key="freeform" value="Чөлөөт хэлбэр"/>
+<string key="pedestal" value="Тэгш өнцөгт"/>
+<string key="line" value="Шулуун"/>
+<string key="drawingTools" value="Зурах Багаж"/>
+<string key="zero" value="Тэглэх"/>
+<string key="view" value="Үзэх"/>
+<string key="sine" value="Синус"/>
+<string key="smooth" value="Мөлийлгөх"/>
+<string key="tilt" value="Налуулах"/>
+<string key="parabola" value="Парабол"/>
+<string key="translation.credits" value="Банзрагчийн Цогбадрах"/>
+<string key="derivative" value="Уламжлал"/>
+<string key="undo" value="Буцаах"/>
+</SimStrings>
