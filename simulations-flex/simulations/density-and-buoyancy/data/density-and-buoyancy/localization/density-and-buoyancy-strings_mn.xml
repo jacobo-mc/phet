@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--density-and-buoyancy-strings_mn.xml created Thu Jul 12 10:16:20 ULAT 2018 using: density-and-buoyancy 1.05.00 (50250), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="buoyancy.tab.intro" value="Доторх"/>
+<string key="properties.mass" value="Масс"/>
+<string key="controlPanel.showVectorValues" value="Хүчний Хэмжээ"/>
+<string key="forceArrows.contact" value="Тулгуурийн Хүч"/>
+<string key="mode.objectsOfSameVolume" value="Ижил Эзлэхүүнтэй"/>
+<string key="mysteryObject.densityColumnHeader" value="Нягт ({0})"/>
+<string key="material.aluminum" value="Хөнгөн цагаан"/>
+<string key="properties.massKilogram" value="кг"/>
+<string key="material.air" value="Агаар"/>
+<string key="material.custom" value="Дурын Биет"/>
+<string key="material.gasoline" value="Нефт"/>
+<string key="customObject.material" value="Материал"/>
+<string key="mode.mysteryObjects" value="Үл мэдэгдэх"/>
+<string key="customObject.custom" value="Дурын биет"/>
+<string key="material.wood" value="Мод"/>
+<string key="properties.massKilogramValue" value="{0} кг"/>
+<string key="mode.two" value="Хоёр"/>
+<string key="material.styrofoam" value="Полимер"/>
+<string key="material.honey" value="Зөгийн Бал"/>
+<string key="material.apple" value="Алим"/>
+<string key="material.ice" value="Мөс"/>
+<string key="translation.credits" value="Банзрагчийн Цогбадрах"/>
+<string key="buoyancy.tab.playground" value="Архимедийн Хүчний тоглоом"/>
+<string key="fluid.controls.intro.label" value="Шингэн"/>
+<string key="material.diamond" value="Алмаз"/>
+<string key="mode.title" value="Биетүүд"/>
+<string key="material.oliveOil" value="Оливийн Тос"/>
+<string key="material.lead" value="Хар тугалга"/>
+<string key="forceArrows.buoyancy" value="Архимедийн Хүч"/>
+<string key="properties.fluidDensity" value="Шингэний Нягт"/>
+<string key="mysteryObject.densityUnitsKgL" value="кг/л"/>
+<string key="customObject.properties" value="Шинж чанар"/>
+<string key="forceArrows.gravity" value="Татах Хүч"/>
+<string key="material.brick" value="Тоосго"/>
+<string key="mysteryObject.table.title" value="Төрөл бүрийн материалын нягт"/>
+<string key="mysteryObject.material" value="Материал"/>
+<string key="material.oil" value="Тос"/>
+<string key="properties.volumeLiterValue" value="{0} л"/>
+<string key="mode.objectsOfSameDensity" value="Ижил нягттай"/>
+<string key="density.simTitle" value="Нягт"/>
+<string key="controlPanel.readouts" value="Шошго"/>
+<string key="properties.volumeMilliLiterValue" value="{0} мл"/>
+<string key="mode.customObject" value="Тохируулах"/>
+<string key="mode.objectsOfSameMass" value="Ижил Масстай"/>
+<string key="application.resetAll" value="Бүгд эхлэх"/>
+<string key="material.gold" value="Алт"/>
+<string key="properties.densityValue" value="{0} кг/л"/>
+<string key="forceArrowControlPanelTitle" value="Хүчийг Харах"/>
+<string key="properties.weightNewtonValue" value="{0} Н"/>
+<string key="customObject.name" value="нэр"/>
+<string key="controlPanel.showMasses" value="Масс"/>
+<string key="material.water" value="Ус"/>
+<string key="properties.massGramValue" value="{0} г"/>
+<string key="properties.density" value="Нягт"/>
+<string key="material.waterBalloon" value="Усны Сав"/>
+<string key="mysteryObject.table.showTable" value="Хүснэгтээр үзүүлэх"/>
+<string key="mode.one" value="Нэг"/>
+<string key="properties.volume" value="Эзлэхүүн"/>
+<string key="buoyancy.simTitle" value="Архимедийн хүч"/>
+<string key="properties.kilogramPerLiter" value="кг/л"/>
+<string key="properties.volumeLiter" value="л"/>
+</SimStrings>
