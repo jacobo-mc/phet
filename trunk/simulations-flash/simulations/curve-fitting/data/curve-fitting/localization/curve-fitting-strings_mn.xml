@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--curve-fitting-strings_mn.xml created Wed Jul 11 18:15:56 ULAT 2018 using: curve-fitting 2.02.00 (52265), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="clearAll" value="Бүгдийг цэвэрлэх"/>
+<string key="deviations" value="Хазайлтыг үзүүлэх"/>
+<string key="quartic" value="4-н зэрэг"/>
+<string key="simTitle" value="Муруйд Дөхөлт хийх"/>
+<string key="bestFit" value="Оновчтойгоор"/>
+<string key="quadratic" value="Квадрат"/>
+<string key="bucketHelp2" value="эсвэл буцааж тавь"/>
+<string key="bucketHelp1" value="Цэгүүдийг аваад..."/>
+<string key="cubic" value="Куб"/>
+<string key="noFit" value="Дөхөлтгүй"/>
+<string key="adjustableFit2" value="Тохируулгаар:"/>
+<string key="dataPointHelp" value="алдааны зуравсыг чирж болно"/>
+<string key="bestFit2" value="Оновчтойгоор:"/>
+<string key="hideHelp" value="Тусламжийг нуух"/>
+<string key="correlation" value="Корреляцийн Коэффициент"/>
+<string key="chiSqHelp5" value=":  маш сайн дөхөлт (алдаа маш бага)"/>
+<string key="bucketLabel" value="Цэгүүд"/>
+<string key="chiSqHelp4" value=":  тааруу дөхөлт (ногоон бүс)"/>
+<string key="chiSqHelp3" value=":  тааруу дөхөлт (улаан бүс)"/>
+<string key="chiSqHelp2" value="N = Цэгүүдийн тоо \n f = дөхөлтийн параметрийн тоо  \n ( f = 4 нь кубын дөхөлт )"/>
+<string key="help" value="Тусламж"/>
+<string key="chiSqHelp1" value="Хи квадратын статистик нь"/>
+<string key="adjustableFit" value="Тохируулгаар"/>
+<string key="translation.credits" value="Банзрагчийн Цогбадрах"/>
+<string key="linear" value="Шугаман"/>
+</SimStrings>
