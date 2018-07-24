@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--charges-and-fields-strings_mn.xml created Mon Jul 16 12:51:02 ULAT 2018 using: charges-and-fields 2.04.00 (52655), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="directionOnly" value="зөвхөн чиглэл"/>
+<string key="grid" value="тор"/>
+<string key="clearAll" value="Бүгдийг Цэвэрлэ"/>
+<string key="simTitle" value="Цэнэгүүд ба Орон"/>
+<string key="distanceUnit" value="м"/>
+<string key="showNumbers" value="Тоонууд харуул"/>
+<string key="voltageUnit" value="В"/>
+<string key="oneMeter" value="1 метр"/>
+<string key="showEField" value="Е-орон Үзүүл"/>
+<string key="oneNanoC" value="1 нКл"/>
+<string key="showHiRes" value="Нарийн үзүүл"/>
+<string key="EFieldSensors" value="E-Орон Мэдрэгч"/>
+<string key="eFieldUnit" value="В/м"/>
+<string key="clear" value="арил"/>
+<string key="plot" value="зур"/>
+<string key="equipotential" value="эквипотенциал"/>
+<string key="angleUnit" value="град"/>
+<string key="translation.credits" value="Банзрагчийн Цогбадрах"/>
+<string key="showLoRes" value="Бүрсгэр үзүүл"/>
+<string key="moreSpeedLessRes" value="Нарийн/Бүрсгэр"/>
+<string key="tapeMeasure" value="хэмжих багаж"/>
+<string key="voltage" value="Вольт"/>
+</SimStrings>
