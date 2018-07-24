@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--collision-lab-strings_mn.xml created Mon Jul 16 15:35:53 ULAT 2018 using: collision-lab 2.01.00 (69163), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="ShowValues.velocityCaption" value="Хурд (м/с)"/>
+<string key="ControlPanel.showValues" value="Утгыг Харах"/>
+<string key="PlayPauseButtons.step" value="Алхам"/>
+<string key="DataTable.velocity" value="Хурд"/>
+<string key="MomentumView.total" value="нийл"/>
+<string key="DataTable.positionWithUnits" value="Байршил (м)"/>
+<string key="ControlPanel.sound" value="Авиа"/>
+<string key="ControlPanel.showMomentumVectors" value="Импульсийн Вектор"/>
+<string key="ShowValues.speedCaption" value="Хурд (м/с)"/>
+<string key="ControlPanel.oneHundredPercent" value="Уян"/>
+<string key="DataTable.lessData" value="Мэдээг Хумь"/>
+<string key="DataTable.momentumWithUnits" value="Импульс (кг м/с)"/>
+<string key="translation.credits" value="Банзрагчийн Цогбадрах"/>
+<string key="MomentumView.momenta" value="Импульс"/>
+<string key="DataTable.units.kilogramMetersPerSecond" value="кг м/с"/>
+<string key="ControlPanel.elasticityReadout" value="Харимхай {0}%"/>
+<string key="DataTable.ball" value="Үрэл"/>
+<string key="TableView.kineticEnergy" value="Кинетик Энерги = {0} Ж"/>
+<string key="advancedTab" value="Нэмэлт"/>
+<string key="ControlPanel.showVelocities" value="Хурдны Векторууд"/>
+<string key="ControlPanel.showPaths" value="Замыг Харах"/>
+<string key="DataTable.mass" value="Масс"/>
+<string key="DataTable.addBall" value="Үрэл Нэм"/>
+<string key="DataTable.position" value="Байршил"/>
+<string key="DataTable.units.kilograms" value="кг"/>
+<string key="DataTable.units.metersPerSecond" value="м/с"/>
+<string key="PlayPauseButtons.pause" value="Зогс"/>
+<string key="ControlPanel.2d" value="2 Хэмжээст"/>
+<string key="DataTable.moreData" value="Илүү Мэдээ"/>
+<string key="ControlPanel.reflectingBorder" value="Ойлгогч Хүрээ"/>
+<string key="DataTable.momentum" value="Импульс"/>
+<string key="DataTable.removeBall" value="Үрэл Хас"/>
+<string key="ShowValues.momentumCaption" value="Импульс (кг м/с)"/>
+<string key="ControlPanel.resetAll" value="Бүгдийг Эхэл"/>
+<string key="ControlPanel.momentaDiagram" value="Импульсийн Диаграм"/>
+<string key="ControlPanel.elasticity" value="Харимхай"/>
+<string key="DataTable.units.meters" value="м"/>
+<string key="ControlPanel.showCenterOfMass" value="Массын Төв"/>
+<string key="ControlPanel.zeroPercent" value="Налархай"/>
+<string key="DataTable.velocityWithUnits" value="Хурд (м/с)"/>
+<string key="TableView.returnBalls" value="Бөмбөгүүдийг буцаах"/>
+<string key="DataTable.massWithUnits" value="Масс (кг)"/>
+<string key="introductionTab" value="танилцуулга"/>
+<string key="TableView.timeRate" value="Үзүүлэх хурд"/>
+<string key="simTitle" value="Мөргөлдөөний Лаб"/>
+<string key="PlayPauseButtons.play" value="Тогло"/>
+<string key="ControlPanel.kineticEnergy" value="Кинетик Энерги"/>
+<string key="MomentumView.tipToTail" value="нэг-цэгт-зөө"/>
+<string key="PlayPauseButtons.back" value="Буц"/>
+<string key="TableView.time" value="Хугацаа = {0} с"/>
+<string key="ControlPanel.1d" value="1 Хэмжээст"/>
+<string key="PlayPauseButtons.rewind" value="Дахин"/>
+</SimStrings>
