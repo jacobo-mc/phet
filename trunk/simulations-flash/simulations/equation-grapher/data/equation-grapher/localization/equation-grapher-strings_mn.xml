@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--equation-grapher-strings_mn.xml created Sun Jul 15 21:11:10 ULAT 2018 using: equation-grapher 2.02.00 (52283), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="showYEq" value="Үзэх y="/>
+<string key="erase" value="Арилгах"/>
+<string key="save" value="Хадгалах"/>
+<string key="zero" value="Тэг"/>
+<string key="simTitle" value="Графикийн Томьёо"/>
+<string key="translation.credits" value="Банзрагчийн Цогбадрах"/>
+</SimStrings>
