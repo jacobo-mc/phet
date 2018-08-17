@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--resonance-strings_mn.xml created Thu Aug 02 09:35:37 ULAT 2018 using: resonance 1.01.00 (54775), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+    <string key="simSpeed" value="загварын хурд"/>
+    <string key="sameFrequency" value="давтамж ижил"/>
+    <string key="sameSpring" value="хат k ижил"/>
+    <string key="slow" value="удаан"/>
+    <string key="mixedMAndK" value="холимог m ба k"/>
+    <string key="numberOfResonators" value="Хэлбэлзэгчийн Тоо"/>
+    <string key="kg" value="кг"/>
+    <string key="pause" value="Зогс"/>
+    <string key="amplitude" value="далайц"/>
+    <string key="sloMo" value="УД-ААН"/>
+    <string key="step" value="алхам"/>
+    <string key="frequencyEqualsXHz" value="давтамж = {0} Гц"/>
+    <string key="cm" value="см"/>
+    <string key="on" value="Асах"/>
+    <string key="ruler" value="Шугам"/>
+    <string key="resonance.simTitle" value="Ресонанс"/>
+    <string key="springConstant" value="пүршний хат "/>
+    <string key="NperMperS" value="Н/(м/с)"/>
+    <string key="frequency" value="давтамж"/>
+    <string key="resetAll" value="Бүр Эхэл"/>
+    <string key="mass" value="масс"/>
+    <string key="sameMass" value="масс m ижил"/>
+    <string key="resonator" value="Хэлбэлзэгч"/>
+    <string key="hz" value="Гц"/>
+    <string key="translation.credits" value="Банзрагчийн Цогбадрах"/>
+    <string key="NperM" value="Н/м"/>
+    <string key="gravityColon" value="Таталцал:"/>
+    <string key="play" value="ажиллуул"/>
+    <string key="paused" value="Зогссон"/>
+    <string key="off" value="Унтар"/>
+    <string key="dampingConstant" value="Тоормослох тогтмол"/>
+    <string key="normal" value="хэвийн"/>
+    <string key="selectPreset" value="Эхний сонголт"/>
+</SimStrings>
