@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--blackbody-spectrum-strings_mn.xml created Tue Jul 10 17:18:53 ULAT 2018 using: blackbody-spectrum 2.02.00 (52705), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="translation.credits" value="Банзрагчийн Цогбадрах"/>
+<string key="zoomIn" value="жижигрүүлэх"/>
+<string key="intensity" value="эрчим"/>
+<string key="simTitle" value="Хар биеийн Спектор"/>
+<string key="zoomOut" value="томруулах"/>
+<string key="clear" value="Цэвэрлэх"/>
+<string key="sun" value="Нар"/>
+<string key="save" value="Хадгалах"/>
+<string key="showRuler" value="шугам харах"/>
+<string key="wavelength" value="долгионы урт"/>
+<string key="oven" value="зуух"/>
+<string key="earth" value="Дэлхий"/>
+<string key="lightBulb" value="чийдэн"/>
+</SimStrings>
