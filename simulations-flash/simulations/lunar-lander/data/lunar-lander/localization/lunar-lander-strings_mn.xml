@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--lunar-lander-strings_mn.xml created Tue Jul 31 22:21:12 ULAT 2018 using: lunar-lander 2.04.00 (53815), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="hardLanding" value="Хүнд Буулт"/>
+<string key="score" value="оноо:"/>
+<string key="unpause" value="Эхлэ"/>
+<string key="range" value="муж(м)"/>
+<string key="fuel" value="Түлш(кг)"/>
+<string key="translation.credits" value="Банзрагчийн Цогбадрах"/>
+<string key="altitude" value="өндөр(м)"/>
+<string key="help3" value="Зогсох"/>
+<string key="help2" value="Дахих"/>
+<string key="help1" value="Товчийн хяналт:"/>
+<string key="hitBoulder" value="Чулуу шүргэх. \nТулгуур хугарсан. \nТүлш дууссан."/>
+<string key="start" value="Эхлэх"/>
+<string key="hardLandingsColon" value="Хүнд Буулт:"/>
+<string key="vY" value="v_y(м/с)"/>
+<string key="vX" value="v_x(м/с)"/>
+<string key="help" value="Тусла/Зогс"/>
+<string key="sound" value="Дуу"/>
+<string key="vectors" value="Вектор"/>
+<string key="reset" value="Дахих"/>
+<string key="longHelp" value="~ Түлш дуустал олон хавтгай газар амжилттай буулгаарай.\n~ Буусны дараа тийрэлт өгч нисээрэй.\n~ Нэг талбайд нэгээс илүү буувал оноо тооцохгүй.\n~ Жижиг болон буухад хэцүү талбайд газардвал илүү оноо өгнө:  \n   Хялбар том талбай = 5 онооноос   Үхлийн нарийн талбай = 50 оноо\n~ Зөөлөн буултад 10 илүү оноо өгнө ( v &lt; 2 м/с).\n~ Хэрвээ чулуунд хүрвэл тоглоом дуусна. (Чулуун дээр буух боломжгүй!)\n~ Хэрвээ сүйрвэл тоглоом дуусна (v &gt; 12 м/с)."/>
+<string key="accVector" value="Хурдатгалын вектор"/>
+<string key="softLanding" value="Зөөлөн Буулт"/>
+<string key="thrust" value="Тийрэлт"/>
+<string key="simTitle" value="Саранд Газардагч"/>
+<string key="label7" value="Буулт хийх хэдэн талбай байна вэ? Зөөлөн буулт илүү оноо(v &lt; 2 м/с).Чулуу шүргэх ба сүйрвэл Тоглоом дуусна (v &gt; 6 м/с)."/>
+<string key="label6" value="Урт товчлуур = Тийрэлт Бүрэн Өгөх"/>
+<string key="label5" value="Баруун Хазайх"/>
+<string key="crash2" value="Гэнэтийн буултаар багаараа үхлээ."/>
+<string key="label4" value="Багас"/>
+<string key="crash1" value="Гэнэтийн буултаар тулгуур хугарсан."/>
+<string key="softLandingsColon" value="Зөөлөн Буулт:"/>
+<string key="label3" value="Зүүн Хазайх"/>
+<string key="paused" value="Зогсох"/>
+<string key="label2" value="Илүү Тийр"/>
+<string key="label1" value="Буулт хяналтын товч"/>
+<string key="landingSpeedEq" value="Газардах хурд ="/>
+<string key="velVector" value="Хурдны вектор"/>
+</SimStrings>
