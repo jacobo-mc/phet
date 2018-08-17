@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--stern-gerlach-strings_mn.xml created Sun Aug 05 10:12:59 ULAT 2018 using: stern-gerlach 2.02.00 (52653), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="angle3" value="өнцөг 3"/>
+<string key="angle2" value="өнцөг 2"/>
+<string key="slow" value="удаан"/>
+<string key="randomXZ" value="таамаг xz"/>
+<string key="simTitle" value="Штерна-Герлахийн Туршилт"/>
+<string key="sternGerlachExperiment" value="Штерна-Герлахийн Туршилт"/>
+<string key="spinOrientation" value="спин \nчиглэл"/>
+<string key="on" value="АС"/>
+<string key="up" value="дээш"/>
+<string key="down" value="доош"/>
+<string key="sound" value="Дуу"/>
+<string key="fast" value="Хурд"/>
+<string key="numberOfMagnets" value="Соронзон \n-гийн тоо"/>
+<string key="fireAtom" value="Атом Шид"/>
+<string key="autoFire" value="Авто Шид"/>
+<string key="translation.credits" value="Банзрагчийн Цогбадрах"/>
+<string key="angle" value="өнцөг"/>
+<string key="reset" value="Эхлэх"/>
+<string key="resetCount" value="Дахин Тоол"/>
+<string key="off" value="УНТ"/>
+</SimStrings>
