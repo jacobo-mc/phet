@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--pendulum-lab-strings_sq.xml created Sun Sep 30 20:11:51 CEST 2018 using: pendulum-lab 2.03.00 (52288), translation-utility 2.18.00 (74383) May 28, 2015--><SimStrings>
+<string key="resetStopwatch" value="rivendos"/>
+<string key="earth" value="Toka"/>
+<string key="showPhotoGateTimer" value="mat kohën"/>
+<string key="planetX" value="Planeti X"/>
+<string key="acceleration" value="nxitimin"/>
+<string key="showEnergyOf" value="Trego energjinë:"/>
+<string key="PE" value="PE"/>
+<string key="velocity" value="shpejtësinë"/>
+<string key="realTime" value="koha reale"/>
+<string key="length" value="gjatësia"/>
+<string key="lots" value="i fortë"/>
+<string key="friction" value="fërkimi"/>
+<string key="showSecondPendulum" value="Trego pendulin 2"/>
+<string key="start" value="Fillo"/>
+<string key="mass_unit" value="kg"/>
+<string key="jupiter" value="Jupiteri"/>
+<string key="moon" value="Hëna"/>
+<string key="energyOf" value="energjia e"/>
+<string key="period" value="perioda:"/>
+<string key="simStrings" value="Penduli Lab"/>
+<string key="noneFriction" value="ska"/>
+<string key="total" value="totale"/>
+<string key="mass2" value="masa 2:"/>
+<string key="pendulum" value="Penduli"/>
+<string key="startPauseStopwatch" value="fillo/ndalo"/>
+<string key="show" value="Trego:"/>
+<string key="length2" value="gjatësia 2:"/>
+<string key="photoGateTimer" value="mat kohën"/>
+<string key="thermal" value="termike"/>
+<string key="pausePlay" value="ndalo/fillo"/>
+<string key="reset" value="Rivendos"/>
+<string key="mass" value="masa"/>
+<string key="quarterTime" value="1/4 e kohës"/>
+<string key="KE" value="KE"/>
+<string key="gEqZero" value="g = 0"/>
+<string key="length_unit" value="m"/>
+<string key="noneEnergy" value="ska"/>
+<string key="simTitle" value="Penduli Lab"/>
+<string key="otherTools" value="mjete të tjera"/>
+<string key="angleUnit" value="gradë"/>
+<string key="paused" value="ndalo"/>
+<string key="sixteenthTime" value="1/16 e kohës"/>
+</SimStrings>
