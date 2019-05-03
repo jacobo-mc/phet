@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--my-solar-system-strings_mn.xml created Mon Apr 29 12:57:40 ULAT 2019 using: my-solar-system 2.04.00 (72347), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="slingshot" value="Талийж одох"/>
+<string key="binaryStarPlanet" value="Хос гараг, од"/>
+<string key="sunAndPlanet" value="Нар ба гараг"/>
+<string key="body4" value="4-р бие"/>
+<string key="numberOfBodies" value="биетийн тоо"/>
+<string key="body3" value="3-р бие"/>
+<string key="body2" value="2-р бие"/>
+<string key="body1" value="1-р бие"/>
+<string key="velocity" value="хурд"/>
+<string key="doubleDouble" value="Хос хосоор"/>
+<string key="translation.credits" value="Б.Цогбадрах"/>
+<string key="massEquals" value="масс="/>
+<string key="hyperbolics" value="Гипербол"/>
+<string key="help9" value="PhET төсөл ба Боулдер дэх Колорадогийн Их сургууль нь зохиогчийн эрхийг эзэмшнэ."/>
+<string key="help8" value="Рунг-Куттагийнхаас Верлет алгоритм нь хэлбэлзэгч системийн энерги хадгалах, орбитын төлөвийг тогтворжуулан тооцоолдогоороо ялгаатай. Алхамаа засварлах алгоритмтайгаар ижил бөгөөд хэт жижиг биес ба хэт их хурдатгалын  хувьд физикийн бус үр дүнг өгнө. Хэт ойр биес нь шууд мөргөлдөх тул үүнээс сэргийлнэ үү."/>
+<string key="help6" value="Энэхүү загварчлалд алхамаа засварлах хурд-Вертлет алгоритмаар траектороос интеграл авах аргыг хэрэглэнэ."/>
+<string key="stop" value="Зогс"/>
+<string key="help5" value="Систем гололсон сонголт хийсэн үед системийн массын төвийг голлуулан эхлүүлнэ."/>
+<string key="help4" value="Анхны байршил, хурдыг Зогс дарж, бие дээр хулганаар дарж хөдөлгөнө. "/>
+<string key="help3" value="Олныг авч бага эрсдэлтэй байхаар тохируулаарай."/>
+<string key="help2" value="Зай, масс, хугацааны нэгжийг өөрийнхөөрөө бэлтгэн оруулна уу!"/>
+<string key="help1" value="Одны системийнхээ биесд V тэмдэг (хурдыг V-ээр)  чирэх замаар эхлүүлэх эсвэл Эхний Тохиргоо хүснэгтэд бичиж оруулаарай."/>
+<string key="help0" value="Одны Системийн орбитын загвар"/>
+<string key="doubleSlingshot" value="Хосоос Одох"/>
+<string key="systemCentered" value="Систем гололсон"/>
+<string key="start" value="Эхэл"/>
+<string key="showTraces" value="Мөрийг Үзүүл"/>
+<string key="back" value="буц"/>
+<string key="tapeMeasure" value="Туузан Метр"/>
+<string key="accurate" value="хэвийн"/>
+<string key="help" value="Туслах"/>
+<string key="selectPreset" value="Урьдчилан сонгох"/>
+<string key="showGrid" value="Торыг Үзүүл"/>
+<string key="timeEquals" value="хугацаа="/>
+<string key="ellipses" value="Эллипсүүд"/>
+<string key="trojanAsteroids" value="Троян бага гараг"/>
+<string key="fourStarBallet" value="Дөрвөн одны балет"/>
+<string key="position" value="Байршил"/>
+<string key="reset" value="Дахих"/>
+<string key="mass" value="масс"/>
+<string key="fast" value="түргэн"/>
+<string key="simTitle" value="Миний Нарын Систем"/>
+<string key="sunPlanetMoon" value="Нар, гараг, сар"/>
+<string key="initialSettings" value="анхын нөхцөл:"/>
+<string key="sunPlanetComet" value="Нар, гараг, сүүлт од"/>
+</SimStrings>
