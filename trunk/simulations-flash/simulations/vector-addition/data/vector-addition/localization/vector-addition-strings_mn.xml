@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--vector-addition-strings_mn.xml created Wed May 08 14:42:59 ULAT 2019 using: vector-addition 2.02.00 (52287), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="showSum" value="Нийлбэр үзэх"/>
+<string key="translation.credits" value="Б.Цогбадрах"/>
+<string key="simTitle" value="Векторыг Нэмэх"/>
+<string key="grabOne" value="Нэгийг ав"/>
+<string key="clearAll" value="Бүгд Цэвэр"/>
+<string key="componentDisplay" value="Бүрдлүүдээр үзэх"/>
+<string key="style3" value="Хэлбэр 3"/>
+<string key="none" value="Үгүй"/>
+<string key="showGrid" value="Торыг үзэх"/>
+<string key="style2" value="Хэлбэр 2"/>
+<string key="style1" value="Хэлбэр 1"/>
+</SimStrings>
