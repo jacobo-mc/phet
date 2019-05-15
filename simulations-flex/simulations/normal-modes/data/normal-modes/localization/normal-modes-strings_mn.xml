@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--normal-modes-strings_mn.xml created Wed May 15 16:46:25 ULAT 2019 using: normal-modes 1.01.00 (66456), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="simSpeed" value="Хурд"/>
+<string key="vertical" value="Босоо"/>
+<string key="slow" value="удаан"/>
+<string key="modeSpectrumDisplay" value="Горимын Спектер Үзүүлэх"/>
+<string key="phase:" value="Фаз:"/>
+<string key="zeroPositions" value="Тэг Байршил"/>
+<string key="start" value="Эхэл"/>
+<string key="step" value="алхам"/>
+<string key="modeNumbersXY" value="Горимын Тоо x, y"/>
+<string key="polarization:" value="Туйлын&lt;br&gt;Хяналт:"/>
+<string key="amplitude:" value="Далайц:"/>
+<string key="modeSpectrum" value="Хэвийн Горимын Спектер"/>
+<string key="frequency:" value="Давтамж:"/>
+<string key="normalModes" value="Хэвийн Горим"/>
+<string key="showPhases" value="Фазыг Үзэх"/>
+<string key="normal-modes.simTitle" value="Хэвийн Горим"/>
+<string key="showSprings" value="Пурш Үзэх"/>
+<string key="stop" value="Зогс"/>
+<string key="resetPositions" value="Анхны Байршил"/>
+<string key="normalMode:" value="Хэвийн Горим:"/>
+<string key="translation.credits" value="Б.Цогбадрах"/>
+<string key="horizontal" value="Хэвтээ"/>
+<string key="paused" value="Зогссон"/>
+<string key="numberOfMasses" value="Массын Тоо"/>
+<string key="normal" value="хэвийн"/>
+</SimStrings>
