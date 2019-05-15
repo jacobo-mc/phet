@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--estimation-strings_mn.xml created Sun May 12 19:43:21 ULAT 2019 using: estimation 2.02.00 (51675), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="ratioOfAreasIs" value="Талбайн хэмжээ"/>
+<string key="closeEnough" value="Хангалттай! \n Зөв хариулт:"/>
+<string key="levelColon" value="Түвшин:"/>
+<string key="score" value="Оноо"/>
+<string key="EnterNumber" value="Тоо Оруул"/>
+<string key="selectTrainingOrGame" value="Сургалт эсвэл Тоглоомоос Сонго:"/>
+<string key="percentUnderOver" value="бага/их хувь:"/>
+<string key="estimation" value="Тооцоолол"/>
+<string key="next" value="Дараах"/>
+<string key="ratioOfLengths" value="шугамын уртын хэмжээ \nдөрвөлжин ба дугуйн талбайн хэмжээ \nкуб ба бөмбөрцгийн эзлэхүүний хэмжээ "/>
+<string key="exactAnswer" value="Зөв хариулт"/>
+<string key="level" value="Түвшин"/>
+<string key="howMany" value="Томд жижиг нь хэдэн \n ширхэг багтах вэ?"/>
+<string key="noCreditIf" value="Оноогүй бол"/>
+<string key="home" value="Эхлэл"/>
+<string key="whatIsRatioOfVolumes" value="Эзлэхүүний хэмжээ хэд вэ?"/>
+<string key="tooFarOff" value="Хэтэрхий хол! \n Зөв хариу:"/>
+<string key="translation.credits" value="Б.Цогбадрах"/>
+<string key="scorePerTimeColon" value="Оноо/Хугацаа:"/>
+<string key="PleasePickANumber" value="1-ээс 100000 хоорондох тоо сонгоно уу."/>
+<string key="answerIsOutside" value="хариулт өгсөн хязгаарын гадна байна."/>
+<string key="train" value="Сургалт"/>
+<string key="strategyHelp" value="Бодлогын Тусламж"/>
+<string key="whatIsRatioOfAreas" value="Талбайн хэмжээ хэд вэ?"/>
+<string key="scorePerTime" value="Оноо/Хугацаа"/>
+<string key="gameOver" value="Тоглоом төгсөв."/>
+<string key="play" value="Тогло"/>
+<string key="fullCreditIf" value="Бүх оноо бол"/>
+<string key="back" value="буц"/>
+<string key="levelOneColon" value="Түвшин 1: Зөвхөн шугам \nТүвшин 2: Шугам ба 2D биет \nТүвшин 3: Бүх биет"/>
+<string key="yourAnswer" value="Таны хариулт"/>
+<string key="or" value="эсвэл2"/>
+<string key="sound" value="Дуу"/>
+<string key="accuracyIsSmaller" value="Нарийвчлал бага байна:"/>
+<string key="averageAccuracy" value="дундаж нарийвчлал:"/>
+<string key="gameRules" value="Тоглоомын Дүрэм"/>
+<string key="ratioOfVolumesIs" value="Эзлэхүүний хэмжээ нь"/>
+<string key="time" value="Хугацаа (сек)"/>
+<string key="numberEstimates" value="тооцоолсон тоо:"/>
+<string key="simTitle" value="Тооцоолол"/>
+<string key="yourAnswerIs" value="таны хариултад \nшугамын 1.3 хэсэг, \n2D биетийн 1.6 хэсэг, \n3D биетийн 2.0 хэсэг гэж орно."/>
+<string key="enter" value="Оруулах"/>
+<string key="endGame" value="Тоглоом дуусгах"/>
+<string key="nextLowerCase" value="дараах"/>
+</SimStrings>
