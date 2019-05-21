@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--radiating-charge-strings_mn.xml created Mon May 20 21:26:03 ULAT 2019 using: radiating-charge 1.03.00 (71951), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="stopCharge" value="Цэнэг Зогс"/>
+<string key="bump" value="Донслох"/>
+<string key="amplitude" value="Далайц"/>
+<string key="radiating-charge.simTitle" value="Цэнэгийн Цацраг"/>
+<string key="translation.credits" value="Банзрагчийн Цогбадрах"/>
+<string key="speed" value="Хурд"/>
+<string key="frictionManual" value="Гараар"/>
+<string key="duration" value="үе"/>
+<string key="noFrictionManual" value="Үгүй"/>
+<string key="linear" value="Шугаман"/>
+<string key="reset" value="Дахих"/>
+<string key="frequency" value="Давтамж"/>
+<string key="circular" value="Тойрог"/>
+<string key="showVelocity" value="Хурдыг Харах"/>
+<string key="paused" value="Зогсос"/>
+<string key="restart" value="Бүр Дахих"/>
+<string key="sinusoidal" value="Синусоид"/>
+</SimStrings>
