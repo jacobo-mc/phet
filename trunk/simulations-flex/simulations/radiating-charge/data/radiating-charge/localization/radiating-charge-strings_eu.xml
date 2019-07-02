@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--radiating-charge-strings_eu.xml created Tue Mar 05 20:09:14 CET 2013 using: radiating-charge 1.03.00 (71951), translation-utility 2.14.00 (69024) oct 9, 2012--><SimStrings>
+<!--radiating-charge-strings_eu.xml created Sun Jun 30 19:33:32 CEST 2019 using: radiating-charge 1.03.00 (71951), translation-utility 2.18.00 (74383) may 28, 2015--><SimStrings>
 <string key="duration" value="iraupena"/>
 <string key="bump" value="Astindua"/>
-<string key="radiating-charge.simTitle" value="Karga-Erradiatzailea"/>
-<string key="stopCharge" value="Karga Gelditu"/>
+<string key="radiating-charge.simTitle" value="Karga erradiatzailea"/>
+<string key="stopCharge" value="Gelditu karga"/>
 <string key="sinusoidal" value="Sinusoidala"/>
 <string key="amplitude" value="Anplitudea"/>
 <string key="speedOfLight" value="c"/>
-<string key="noFrictionManual" value="Marruskadura gabe"/>
+<string key="noFrictionManual" value="Marruskadurarik ez"/>
 <string key="frequency" value="Maiztasuna"/>
 <string key="restart" value="Berrabiatu"/>
-<string key="showVelocity" value="Abiadura "/>
+<string key="showVelocity" value="Erakutsi abiadura "/>
 <string key="speed" value="Abiadura"/>
-<string key="translation.credits" value="Carlos Bereciartu "/>
+<string key="translation.credits" value="Carlos Bereciartu / Inma Zufiria"/>
 <string key="frictionManual" value="Eskuzkoa"/>
 <string key="linear" value="Lineala"/>
 <string key="paused" value="GELDIRIK"/>
-<string key="reset" value="Ezeztatu"/>
-<string key="circular" value="Zikrkularra"/>
+<string key="reset" value="Hasieratu"/>
+<string key="circular" value="Zirkularra"/>
 </SimStrings>
