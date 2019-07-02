@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--resonance-strings_eu.xml created Sun Dec 09 11:19:24 CET 2012 using: resonance 1.01.00 (54775), translation-utility 2.14.00 (69024) oct 9, 2012--><SimStrings>
-<string key="simSpeed" value="sim abiadura"/>
-<string key="sameFrequency" value="maiztasun bera"/>
-<string key="sameSpring" value="jauzi bera k"/>
-<string key="slow" value="astiro"/>
+<!--resonance-strings_eu.xml created Sun Jun 30 19:39:23 CEST 2019 using: resonance 1.01.00 (54775), translation-utility 2.18.00 (74383) may 28, 2015--><SimStrings>
+<string key="simSpeed" value="sim-abiadura"/>
+<string key="sameFrequency" value="maiztasun berdina"/>
+<string key="sameSpring" value="konstante (k) berdina"/>
+<string key="slow" value="mantso"/>
 <string key="mixedMAndK" value="nahastu m eta k"/>
-<string key="numberOfResonators" value="Durundatzaile kopurua"/>
+<string key="numberOfResonators" value="Erresonadore-kopurua"/>
 <string key="kg" value="kg"/>
-<string key="pause" value="geldirik"/>
+<string key="pause" value="geldialdia"/>
 <string key="amplitude" value="anplitudea"/>
 <string key="frequencyEqualsXHz" value="maiztasuna= {0} Hz"/>
 <string key="sloMo" value="SLO-MO"/>
-<string key="step" value="aurrera"/>
+<string key="step" value="urratsa"/>
 <string key="cm" value="cm"/>
-<string key="driver" value="GIDARIA"/>
-<string key="on" value="irekita"/>
+<string key="driver" value="KONTROLA"/>
+<string key="on" value="on"/>
 <string key="ruler" value="Erregela"/>
-<string key="resonance.simTitle" value="Oihartzuna"/>
-<string key="NperMperS" value="N(m/s"/>
-<string key="springConstant" value="jauzi konstantea"/>
+<string key="resonance.simTitle" value="Erresonantzia"/>
+<string key="NperMperS" value="N/(m/s)"/>
+<string key="springConstant" value="malguki-konstantea"/>
 <string key="frequency" value="maiztasuna"/>
-<string key="resetAll" value="Berarazi dena"/>
+<string key="resetAll" value="Hasieratu dena"/>
 <string key="mass" value="masa"/>
-<string key="sameMass" value="masa bera m"/>
-<string key="resonator" value="Durundatzailea"/>
-<string key="translation.credits" value="OIHARTZUNA"/>
+<string key="sameMass" value="masa (m) berdina"/>
+<string key="resonator" value="Erresonadorea"/>
+<string key="translation.credits" value="Inma Zufiria"/>
 <string key="hz" value="Hz"/>
 <string key="NperM" value="N/m"/>
-<string key="gravityColon" value="Grabitatea"/>
-<string key="play" value="eman"/>
+<string key="gravityColon" value="Grabitatea:"/>
+<string key="play" value="hasi"/>
 <string key="paused" value="GELDITUTA"/>
-<string key="off" value="itxita"/>
-<string key="dampingConstant" value="hezetasun konstantea"/>
-<string key="normal" value="normala"/>
-<string key="selectPreset" value="Preset aukeratu"/>
+<string key="off" value="off"/>
+<string key="dampingConstant" value="hezetasun-konstantea"/>
+<string key="normal" value="normal"/>
+<string key="selectPreset" value="Aukeratu baldintzak"/>
 </SimStrings>
