@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--blackbody-spectrum-strings_eu.xml created Fri Feb 11 23:04:14 CET 2011 using: blackbody-spectrum 2.01.00 (39582), translation-utility 2.10.00 (48775) feb 9, 2011-->
-<SimStrings>
+<!--blackbody-spectrum-strings_eu.xml created Sun Jun 30 19:04:30 CEST 2019 using: blackbody-spectrum 2.02.00 (52705), translation-utility 2.18.00 (74383) may 28, 2015--><SimStrings>
 <string key="r" value="R"/>
+<string key="translation.credits" value="Inma Zufiria"/>
 <string key="zoomIn" value="zoom \n + "/>
 <string key="intensity" value="intentsitatea"/>
 <string key="simTitle" value="Gorputz beltzaren espektroa"/>
@@ -12,9 +12,9 @@
 <string key="tempInK" value="T(K)"/>
 <string key="save" value="Gorde"/>
 <string key="showRuler" value="erakutsi erregela"/>
-<string key="wavelength" value="uhin-luzera"/>
+<string key="wavelength" value="Uhin-luzera"/>
 <string key="b" value="B"/>
 <string key="oven" value="labea"/>
-<string key="earth" value="lurra"/>
+<string key="earth" value="Lurra"/>
 <string key="lightBulb" value="bonbilla"/>
 </SimStrings>
