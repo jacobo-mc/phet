@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--geometric-optics-strings_ga.xml created Tue Jul 16 05:56:07 WEST 2019 using: geometric-optics 2.05.00 (52650), translation-utility 2.18.00 (74383) May 28, 2015--><SimStrings>
+    <string key="draggableScreen" value="scáileán insractha"/>
+    <string key="draggableLens" value="lionsa insractha"/>
+    <string key="screen" value="Scáileán"/>
+    <string key="draggableRuler" value="rialóir insractha"/>
+    <string key="simTitle" value="Optaic Gheoiméadrach"/>
+    <string key="showHelp" value="Taispeáin Cabhair"/>
+    <string key="moveMe" value="Bog mé!"/>
+    <string key="showGuides" value="Taispeáin Treoraithe"/>
+    <string key="diameter" value="trastomhas (m)"/>
+    <string key="ruler" value="Rialóir"/>
+    <string key="focalPoint" value="pointe fócasach"/>
+    <string key="curvatureRadius" value="ga an chuaire (m)"/>
+    <string key="changeObject" value="Athraigh an Réad"/>
+    <string key="principalRays" value="Príomhghathanna"/>
+    <string key="marginalRays" value="Gatha Imeallacha"/>
+    <string key="virtualImage" value="Íomhá Fhíorúil"/>
+    <string key="noRays" value="Gan aon gha"/>
+    <string key="secondSource" value="2ú Pointe"/>
+    <string key="hideHelp" value="Cuir Cabhair i bhFolach"/>
+    <string key="refractiveIndex" value="comhéifeacht athraonta"/>
+    <string key="manyRays" value="A lán gathanna"/>
+</SimStrings>
