@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--density-and-buoyancy-strings_ga.xml created Sun Aug 25 13:50:30 WEST 2019 using: density-and-buoyancy 1.05.00 (50250), translation-utility 2.18.00 (74383) May 28, 2015--><SimStrings>
+    <string key="buoyancy.tab.intro" value="Réamhrá"/>
+    <string key="properties.mass" value="Mais"/>
+    <string key="controlPanel.showVectorValues" value="Luachanna an Fhórsa"/>
+    <string key="forceArrows.contact" value="Teagmháil"/>
+    <string key="mode.objectsOfSameVolume" value="Toirt chéanna"/>
+    <string key="mysteryObject.densityColumnHeader" value="Dlús ({0})"/>
+    <string key="material.aluminum" value="Alúmanam"/>
+    <string key="material.air" value="Aer"/>
+    <string key="properties.massKilogram" value="kg"/>
+    <string key="material.custom" value="Mo Bhloc"/>
+    <string key="material.gasoline" value="Gásailín"/>
+    <string key="customObject.material" value="Ábhar"/>
+    <string key="mode.mysteryObjects" value="Rúnda"/>
+    <string key="customObject.custom" value="Mo bhloc"/>
+    <string key="properties.massKilogramValue" value="{0} kg"/>
+    <string key="material.wood" value="Adhmad"/>
+    <string key="mode.two" value="Dhá cheann"/>
+    <string key="material.styrofoam" value="Styrofoam"/>
+    <string key="material.honey" value="Mil"/>
+    <string key="material.apple" value="Úll"/>
+    <string key="blockName.b" value="B"/>
+    <string key="blockName.a" value="A"/>
+    <string key="material.ice" value="Oighear"/>
+    <string key="buoyancy.tab.playground" value="Áit Súgartha na Snámhachta"/>
+    <string key="translation.credits" value="F. Máirtín a d'aistrigh"/>
+    <string key="fluid.controls.intro.label" value="Sreabhán"/>
+    <string key="mode.mysteryObjects.E" value="E"/>
+    <string key="mode.mysteryObjects.D" value="D"/>
+    <string key="mode.mysteryObjects.C" value="C"/>
+    <string key="mode.mysteryObjects.B" value="B"/>
+    <string key="material.diamond" value="Diamant"/>
+    <string key="mode.mysteryObjects.A" value="A"/>
+    <string key="mode.title" value="Bloic"/>
+    <string key="material.oliveOil" value="Ola Olóige"/>
+    <string key="material.lead" value="Luaidhe"/>
+    <string key="forceArrows.buoyancy" value="Snámhacht"/>
+    <string key="properties.fluidDensity" value="Dlús an tSreabháin"/>
+    <string key="mysteryObject.densityUnitsKgL" value="kg/l"/>
+    <string key="customObject.properties" value="Airíonna"/>
+    <string key="forceArrows.gravity" value="Domhantarraingt"/>
+    <string key="properties.weightPoundValue" value="{0} lb"/>
+    <string key="mysteryObject.table.title" value="Dlúsanna Ábhair Éagsúla"/>
+    <string key="material.brick" value="Bríce"/>
+    <string key="mysteryObject.material" value="Ábhar"/>
+    <string key="material.oil" value="Ola"/>
+    <string key="properties.volumeLiterValue" value="{0} l"/>
+    <string key="mode.objectsOfSameDensity" value="Dlús céanna"/>
+    <string key="controlPanel.readouts" value="Léamha"/>
+    <string key="density.simTitle" value="Dlús"/>
+    <string key="properties.volumeMilliLiterValue" value="{0} ml"/>
+    <string key="mode.customObject" value="Saincheaptha"/>
+    <string key="mode.objectsOfSameMass" value="Mais chéanna"/>
+    <string key="application.resetAll" value="Athshocraigh gach uile ní"/>
+    <string key="material.gold" value="Ór"/>
+    <string key="properties.densityValue" value="{0} kg/l"/>
+    <string key="forceArrowControlPanelTitle" value="Taisteáin Fórsaí"/>
+    <string key="properties.weightNewtonValue" value="{0} N"/>
+    <string key="customObject.name" value="ainm"/>
+    <string key="controlPanel.showMasses" value="Maiseanna"/>
+    <string key="material.water" value="Uisce"/>
+    <string key="properties.massGramValue" value="{0} g"/>
+    <string key="properties.density" value="Dlús"/>
+    <string key="material.waterBalloon" value="Balún Uisce"/>
+    <string key="mysteryObject.table.showTable" value="Taispeán tábla"/>
+    <string key="mode.one" value="Ceann amháin"/>
+    <string key="properties.volume" value="Toirt"/>
+    <string key="buoyancy.simTitle" value="Snámhacht"/>
+    <string key="properties.kilogramPerLiter" value="kg/l"/>
+    <string key="properties.volumeLiter" value="l"/>
+</SimStrings>
