@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--vector-addition-strings_ga.xml created Tue Aug 27 19:22:05 WEST 2019 using: vector-addition 2.02.00 (52287), translation-utility 2.18.00 (74383) May 28, 2015--><SimStrings>
+    <string key="showSum" value="Taispeáin an tSuim"/>
+    <string key="translation.credits" value="F. Máirtín a d'aistrigh"/>
+    <string key="simTitle" value="Suimiú Veicteorach"/>
+    <string key="grabOne" value="Tóg ceann"/>
+    <string key="clearAll" value="Glan"/>
+    <string key="componentDisplay" value="Léirigh Comhpháirteanna"/>
+    <string key="style3" value="Stíl 3"/>
+    <string key="y" value="y"/>
+    <string key="style2" value="Stíl 2"/>
+    <string key="x" value="x"/>
+    <string key="showGrid" value="Léirigh greille"/>
+    <string key="none" value="Gan aon"/>
+    <string key="style1" value="Stíl 1"/>
+</SimStrings>
