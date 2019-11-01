@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--common-strings_uk.xml created Thu Oct 31 21:19:27 EET 2019 using: flash-common-strings 2.03.00 (48823), translation-utility 2.18.00 (74383) мая 28, 2015--><SimStrings>
+<string key="About..." value="Про..."/>
+<string key="SoftwareDevelopment" value="Розробка програмного забезпечення"/>
+<string key="Cancel" value="Скасувати"/>
+<string key="StatisticsField-host_flash_accessibility" value="Використання доступного пристрою?:"/>
+<string key="Privacy" value="Конфіденційність"/>
+<string key="Version" value="Версія"/>
+<string key="NewVersionAvailable" value="Доступна нова версія"/>
+<string key="SoftwareAgreement" value="Угода про програмне забезпечення"/>
+<string key="PhETInstallation" value="Щоб завантажити новий інсталятор, з останнім моделюванням, відвідайте сторінку &lt;a href='{0}'&gt; PhET офлайн-інсталятор веб-сайтів &lt;/a&gt;."/>
+<string key="StatisticsField-sim_version_timestamp" value="Версія моделювання (часова мітка):"/>
+<string key="StatisticsField-sim_dev_version" value="Версія для моделювання (dev):"/>
+<string key="AskLater" value="Запитайте мене пізніше"/>
+<string key="AcceptContinue" value="Погоджуюсь і продовжити"/>
+<string key="BuildDate" value="Дата створення"/>
+<string key="TellMore" value="Розкажи мені більше..."/>
+<string key="FlashVersion" value="Версія Flash"/>
+<string key="PhetSoftwareAgreement" value="Угода про програмне забезпечення PhET"/>
+<string key="NoUpdatesAvailable" value="Немає оновлень"/>
+<string key="StatisticsField-message_type" value="Тип повідомлення:"/>
+<string key="InstallationDated" value="Ваша офлайн-установка веб-сайту PhET датована {0}."/>
+<string key="CheckUpdates" value="Автоматично перевіряйте наявність оновлень"/>
+<string key="UpToDate" value="Актуально"/>
+<string key="StatisticsField-sim_major_version" value="Версія моделювання (основна):"/>
+<string key="StatisticsField-user_total_sessions" value="Загальна кількість запущених симуляцій:"/>
+<string key="InstallationNewer" value="Доступна новіша версія, дата {0}."/>
+<string key="StatisticsField-sim_sessions_since" value="Кількість запусків цього моделювання з моменту останнього онлайн:"/>
+<string key="StatisticsField-sim_distribution_tag" value="Версія моделювання (дистрибуція):"/>
+<string key="Yes!" value="Так!"/>
+<string key="StatisticsField-host_flash_domain" value="Домен моделювання:"/>
+<string key="DesignTeam" value="Команда дизайнерів"/>
+<string key="PhETPreferences" value="Переваги PhET"/>
+<string key="Preferences" value="Налаштування ..."/>
+<string key="AllowMessages" value="Дозволити надсилати інформацію до Phet"/>
+<string key="Updates" value="Оновлення"/>
+<string key="StatisticsField-sim_revision" value="Версія моделювання (перегляд):"/>
+<string key="StatisticsField-user_preference_file_creation_time" value="Час створення файлу налаштувань:"/>
+<string key="Interviews" value="Інтерв'ю"/>
+<string key="StatisticsField-host_flash_time_offset" value="Часовий пояс:"/>
+<string key="MostCurrentVersion" value="У вас найновіша версія ({0}) з {1}."/>
+<string key="StatisticsField-sim_deployment" value="Тип розгортання:"/>
+<string key="PrivacyRequirement" value="&lt;a href='{0}'&gt;PhET&lt;/a&gt;надається у вільному доступі через гранти, які вимагають від нас зібрати мінімальну кількість анонімної інформації, щоб допомогти документувати кількість використання симів PhET та краще обслуговувати  наших користувачів. "/>
+<string key="StatisticsField-sim_type" value="Тип симуляції:"/>
+<string key="Close" value="Закрити"/>
+<string key="StatisticsField-sim_dev" value="Це версія для розробників ?:"/>
+<string key="InstallerAsk" value="Хочете отримати найновіший інсталятор веб-сайтів PhET?"/>
+<string key="PrivacyMessage2" value="Натиснувши &quot;Погодитися і продовжити&quot;, ви погоджуєтесь на програми PhET, включаючи нашу політику конфіденційності, для  кожної симуляції PhET. (Докладніше,&lt;a href='{0}'&gt;натисніть тут&lt;/a&gt;)."/>
+<string key="StatisticsField-sim_total_sessions" value="Загальна кількість разів, коли це моделювання було запущено:"/>
+<string key="PrivacyMessage1" value="У всіх смах PhET ми збираємо мінімальну анонімну &lt;a href='{0}'&gt;інформацію&lt;/a&gt;щоразу, як моделювання запускається (напр., версія симу, операц. система). Ви можете будь-коли відключити надсилання цієї інформації за допомогою кнопки Налаштування."/>
+<string key="StatisticsField-user_installation_timestamp" value="Часова установка PhET:"/>
+<string key="StatisticsField-sim_name" value="Назва моделювання:"/>
+<string key="UpdateOptionsAvailable" value="Параметри оновлення доступні у &lt;i&gt;Налаштування&lt;/i&gt;."/>
+<string key="PhetDevelopmentTeam" value="Команда розвитку PhET"/>
+<string key="InstallerInfo2" value="Якщо ви вирішите отримати найновішу версію, веб-браузер відкриється на веб-сайті PhET, де ви можете завантажити офлайн інсталятор сайту PhET."/>
+<string key="InstallerInfo1" value="Постійне оновлення інсталяції веб-сайтів PhET забезпечує доступ до найновіших моделювань і додаткових матеріалів PhET."/>
+<string key="StatisticsField-sim_minor_version" value="Версія моделювання (другорядна):"/>
+<string key="translation.credits" value="Ніна Дементієвська"/>
+<string key="Credits" value="Кредити"/>
+<string key="StatisticsField-host_flash_version" value="Версія Flash Player:"/>
+<string key="TryNow" value="Спробуй зараз"/>
+<string key="PrivacySkip" value="Пропустіть цю версію"/>
+<string key="CheckInstallationUpdates" value="Перевірте наявність оновлення веб-сайту PhET ..."/>
+<string key="StatisticsField-sim_locale_language" value="Мова:"/>
+<string key="Distribution" value="Поширення"/>
+<string key="LicenseLibraries" value="Використовувана інформація щодо ліцензування бібліотеки:"/>
+<string key="PrivacyDetails" value="Деталі конфіденційності"/>
+<string key="NotUpdateSim" value="Це моделювання неможливо оновити автоматично."/>
+<string key="CurrentVersionIs" value="Ваша поточна версія {0} - {1}."/>
+<string key="StatisticsField-host_flash_os" value="Операційна система та назва:"/>
+<string key="TranslatedBy" value="Перекладено"/>
+<string key="OK" value="OK"/>
+<string key="Error" value="Помилка"/>
+<string key="CheckSimUpdates" value="Перевірте оновлення моделювання ..."/>
+<string key="NewerVersionIs" value="Доступна новіша версія {0}."/>
+<string key="StatisticsField-sim_project" value="Назва проєкту:"/>
+<string key="SentInformation" value="Інформація, показана нижче, буде відправлена в PhET при запуску моделювання."/>
+<string key="OSVersion" value="OS"/>
+<string key="Details" value="Деталі"/>
+<string key="StatisticsField-message_version" value="Версія повідомлення:"/>
+<string key="LeadDesign" value="Провідний дизайн"/>
+<string key="StatisticsField-host_locale_language" value="Мова хоста:"/>
+<string key="AboutSim" value="Про {0}"/>
+<string key="VersionError2" value="Спробуйте пізніше або відвідайте&lt;a href='{0}'&gt;http://phet.colorado.edu&lt;/a&gt;"/>
+<string key="VersionError1" value="Під час спроби отримати інформацію про версію виникла помилка."/>
+<string key="StatisticsField-sim_locale_country" value="Країна:"/>
+</SimStrings>
