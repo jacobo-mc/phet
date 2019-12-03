@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--pendulum-lab-strings_am.xml created Mon Nov 25 09:58:36 GMT+08:00 2019 using: pendulum-lab 2.03.00 (52288), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="energyOf" value="ሃይል"/>
+<string key="noneFriction" value="ምንም"/>
+<string key="moon" value="ጨረቃ"/>
+<string key="earth" value="መሬት"/>
+<string key="length" value="ርዝመት"/>
+<string key="mass_unit" value="ኪሎ ግራም"/>
+<string key="sixteenthTime" value="1/16 እጥፍ"/>
+<string key="start" value="ጀምር"/>
+<string key="simTitle" value="ዠውዣዌ "/>
+<string key="pausePlay" value="ቁም/ጀምር"/>
+<string key="simStrings" value="ዠውዣዌ"/>
+<string key="friction" value="እፍግታ"/>
+<string key="quarterTime" value="1/4 እጥፍ"/>
+<string key="showEnergyOf" value="ጉልበት አሳይ"/>
+<string key="jupiter" value="ጁፒተር"/>
+<string key="velocity" value="ፍጥነት"/>
+<string key="mass2" value="መጠነቁስ አካል 2፤"/>
+<string key="realTime" value="እውነተኛ ሰዓት"/>
+<string key="acceleration" value="ሽምጠጣ"/>
+<string key="noneEnergy" value="ምንም"/>
+<string key="thermal" value="ግለታዊ"/>
+<string key="length2" value="ርዝመት 2፤"/>
+<string key="mass" value="መጠነቁስ አካል"/>
+<string key="planetX" value="X ፕላኔት"/>
+<string key="resetStopwatch" value="ዳግም ይጀምሩ"/>
+<string key="showSecondPendulum" value="2ተኛ ዠውዣዌ አሳይ"/>
+<string key="pendulum" value="ዠውዣዌ"/>
+<string key="startPauseStopwatch" value="ጀምር/አቁም"/>
+<string key="period" value="ጊዜ"/>
+<string key="translation.credits" value="Biniyam Gashaw,Hibre-tech"/>
+<string key="paused" value="ቆሟል"/>
+<string key="reset" value="ዳግም ይጀምሩ"/>
+<string key="show" value="አሳይ፤"/>
+<string key="total" value="ድምር"/>
+</SimStrings>
