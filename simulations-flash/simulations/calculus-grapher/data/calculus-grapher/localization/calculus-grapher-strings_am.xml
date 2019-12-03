@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--calculus-grapher-strings_am.xml created Mon Nov 25 08:27:01 GMT+08:00 2019 using: calculus-grapher 2.08.00 (55025), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="integral" value="ኢንቲግራል"/>
+<string key="grid" value="ፍርግርግ"/>
+<string key="dragMe" value="ለመሳል ይጎትቱ!"/>
+<string key="hill" value="ዳገት መሳይ ቅርጽ"/>
+<string key="cursor" value="ጠቋሚ"/>
+<string key="simTitle" value="የካልኩለስ ግራፍ መሳያ"/>
+<string key="freeform" value="ስድ ቀርጽ"/>
+<string key="pedestal" value="ምሰሶ መሳይ ቅርጽ"/>
+<string key="line" value="መስመር"/>
+<string key="drawingTools" value="የመሳያ መሳሪያዎች"/>
+<string key="zero" value="ዜሮ"/>
+<string key="view" value="አሳይ"/>
+<string key="sine" value="ሳይን (sin())"/>
+<string key="smooth" value="ሞልጭ"/>
+<string key="tilt" value="ዘንበል ያለ "/>
+<string key="parabola" value="ፓራቦላ"/>
+<string key="translation.credits" value="Biniyam Gashaw,hiber-Tech"/>
+<string key="derivative" value="ደሪቫቲቭ "/>
+<string key="undo" value="አጥፋ"/>
+</SimStrings>
