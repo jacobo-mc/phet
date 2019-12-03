@@ -1,33 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--collision-lab-strings_it.xml created Tue Jan 11 22:53:30 CET 2011 using: collision-lab 0.01.00 (45337), translation-utility 2.09.00 (44031) set 14, 2010-->
-<SimStrings>
-<string key="ControlPanel.reflectingBorder" value="Bordo riflettente"/>
-<string key="MomentumView.tipToTail" value="vista punta coda"/>
-<string key="PlayPauseButtons.pause" value="pausa"/>
-<string key="PlayPauseButtons.rewind" value="indietro"/>
-<string key="PlayPauseButtons.step" value="passo"/>
-<string key="MomentumView.total" value="totale"/>
-<string key="simTitle" value="Laboratorio urti"/>
-<string key="ControlPanel.momentaDiagram" value="diagramma dei momenti"/>
-<string key="DataTable.mass" value="massa"/>
-<string key="DataTable.lessData" value="togli dati"/>
-<string key="DataTable.removeBall" value="togli pallina"/>
-<string key="ControlPanel.1d" value="Una dimensione"/>
-<string key="DataTable.moreData" value="aggiungi dati"/>
-<string key="DataTable.ball" value="pallina"/>
-<string key="ControlPanel.showMomentumVectors" value="Vettori momento"/>
-<string key="TableView.kineticEnergy" value="Energia cinetica = {0} J"/>
-<string key="MomentumView.momenta" value="Momenti"/>
-<string key="ControlPanel.showPaths" value="Mostra la traiettoria"/>
-<string key="TableView.timeRate" value="Velocità del tempo"/>
-<string key="DataTable.addBall" value="Aggiungi pallina"/>
-<string key="ControlPanel.elasticity" value="Elasticità"/>
-<string key="PlayPauseButtons.back" value="indietro"/>
-<string key="ControlPanel.2d" value="Due dimensioni"/>
-<string key="ControlPanel.showVelocities" value="Vettori velocità"/>
-<string key="ControlPanel.sound" value="Suono"/>
-<string key="ControlPanel.resetAll" value="Ricomincia"/>
-<string key="PlayPauseButtons.play" value="gioca"/>
-<string key="TableView.time" value="Tempo = {0} s"/>
-<string key="ControlPanel.showCenterOfMass" value="Centro di massa"/>
+<!--collision-lab-strings_it.xml created Mon Nov 25 19:04:08 CET 2019 using: collision-lab 2.01.00 (69163), translation-utility 2.18.00 (74383) mag 28, 2015--><SimStrings>
+    <string key="ShowValues.velocityCaption" value="Velocità (m/s)"/>
+    <string key="ControlPanel.showValues" value="Mostra i valori"/>
+    <string key="PlayPauseButtons.step" value="Passo Avanti"/>
+    <string key="DataTable.velocity" value="Velocità"/>
+    <string key="MomentumView.total" value="totale"/>
+    <string key="DataTable.positionWithUnits" value="Posizione (m)"/>
+    <string key="ControlPanel.sound" value="Suono"/>
+    <string key="ControlPanel.showMomentumVectors" value="Vettori quantità di moto"/>
+    <string key="ShowValues.speedCaption" value="Velocità (m/s)"/>
+    <string key="ControlPanel.oneHundredPercent" value="Elastico"/>
+    <string key="DataTable.lessData" value="Meno dati"/>
+    <string key="DataTable.momentumWithUnits" value="Quantità di moto (kg m/s)"/>
+    <string key="translation.credits" value="A. Spagnolo, Liceo Villari - Naples"/>
+    <string key="MomentumView.momenta" value="Quantità di moto"/>
+    <string key="ControlPanel.elasticityReadout" value="Elasticità  {0}%"/>
+    <string key="DataTable.ball" value="Pallina"/>
+    <string key="TableView.kineticEnergy" value="Energia cinetica = {0} J"/>
+    <string key="advancedTab" value="Avanzato"/>
+    <string key="ControlPanel.showVelocities" value="Vettori velocità"/>
+    <string key="ControlPanel.showPaths" value="Mostra le traiettorie"/>
+    <string key="DataTable.mass" value="Massa"/>
+    <string key="DataTable.addBall" value="Aggiungi pallina"/>
+    <string key="DataTable.position" value="Posizione"/>
+    <string key="DataTable.py" value="qy"/>
+    <string key="DataTable.px" value="qx"/>
+    <string key="ShowValues.momentumReadout" value="q = {0}"/>
+    <string key="PlayPauseButtons.pause" value="Pausa"/>
+    <string key="ControlPanel.2d" value="2 Dimensioni"/>
+    <string key="DataTable.moreData" value="Più dati"/>
+    <string key="ControlPanel.reflectingBorder" value="Bordo riflettente"/>
+    <string key="DataTable.removeBall" value="Togli pallina"/>
+    <string key="DataTable.momentum" value="Quantità di moto"/>
+    <string key="ShowValues.momentumCaption" value="Quantità di moto (kg m/s)"/>
+    <string key="ControlPanel.resetAll" value="Ricomincia"/>
+    <string key="ControlPanel.momentaDiagram" value="diagramma delle quantità di moto"/>
+    <string key="ControlPanel.elasticity" value="Elasticità"/>
+    <string key="ControlPanel.showCenterOfMass" value="Centro di massa"/>
+    <string key="ControlPanel.zeroPercent" value="Anelastico"/>
+    <string key="DataTable.velocityWithUnits" value="Velocità (m/s)"/>
+    <string key="ShowValues.absoluteMomentumReadout" value="| q | = {0}"/>
+    <string key="DataTable.massWithUnits" value="Massa (kg)"/>
+    <string key="introductionTab" value="Introduzione"/>
+    <string key="TableView.timeRate" value="Velocità simulazione"/>
+    <string key="simTitle" value="Laboratorio urti"/>
+    <string key="PlayPauseButtons.play" value="Avvia"/>
+    <string key="PlayPauseButtons.back" value="Passo Indietro"/>
+    <string key="ControlPanel.kineticEnergy" value="Energia cinetica"/>
+    <string key="MomentumView.tipToTail" value="vista punta-coda"/>
+    <string key="TableView.time" value="Tempo = {0} s"/>
+    <string key="ControlPanel.1d" value="1 Dimensione"/>
+    <string key="PlayPauseButtons.rewind" value="Ricomincia"/>
 </SimStrings>
