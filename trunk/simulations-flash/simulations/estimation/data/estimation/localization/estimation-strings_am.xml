@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--estimation-strings_am.xml created Tue Nov 19 17:08:46 GMT+08:00 2019 using: estimation 2.02.00 (51675), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="yourAnswer" value="መልሶ"/>
+<string key="EnterNumber" value="ቁጥር ያስገቡ"/>
+<string key="noCreditIf" value="ይህ እንደሆነ ምንም ውጤት አያገኙም"/>
+<string key="level" value="ደረጃ"/>
+<string key="levelOneColon" value="ደረጃ 1፤ መስመሮች ብቻ ደረጃ 2፤መስመርና 2D ቁሶች ደረጃ 3፤ ሁሉንም የያዘ"/>
+<string key="simTitle" value="ግምት"/>
+<string key="answerIsOutside" value="መልሶ ከዚህ ገደብ ውጪ ነው።"/>
+<string key="whatIsRatioOfAreas" value="የስፋት ንፃሬ ስንት ነው?"/>
+<string key="time" value="ጊዜ(ሰኮንድ)"/>
+<string key="gameOver" value="ጫወታው አለቀ።"/>
+<string key="or" value="ወይም 2"/>
+<string key="closeEnough" value="የተቃረበ ነው !\n ትክክለኛው መለሱ"/>
+<string key="whatIsRatioOfVolumes" value="የይዘቱ ንፃር ስንት ነው?"/>
+<string key="nextLowerCase" value="ቀጣይ"/>
+<string key="levelColon" value="ደረጃ፤"/>
+<string key="gameRules" value="የጫወታው ህጎች"/>
+<string key="scorePerTimeColon" value="ውጤት/ጊዜ፤"/>
+<string key="sound" value="ድምጽ"/>
+<string key="scorePerTime" value="ውጤት/ጊዜ"/>
+<string key="train" value="ልምምድ"/>
+<string key="next" value="ቀጣይ"/>
+<string key="selectTrainingOrGame" value="ልምምድ ወይስ ጫወታ"/>
+<string key="back" value="ተመለስ"/>
+<string key="fullCreditIf" value="ሙሉ ውጤት የሚያገኙት"/>
+<string key="exactAnswer" value="ትክክለኛ መልስ"/>
+<string key="translation.credits" value="hiber-Tech,Biniyam Gashaw"/>
+<string key="estimation" value="ግምት"/>
+<string key="howMany" value="ስንት ትናንሾቹን ነው \nትልቁ ውስጥ ማስገባት የምንችለው?"/>
+<string key="enter" value="አስገባ"/>
+<string key="strategyHelp" value="የስልት እገዛ"/>
+<string key="endGame" value="ጫወታውን ጨርስ"/>
+<string key="home" value="ለመመለስ ይህንን ጠቅ ያድርጉ"/>
+<string key="play" value="ተጫወት"/>
+<string key="PleasePickANumber" value="ይቅርታ ከ 1-100000 መሃል ያሉትን ይምረጡ።"/>
+<string key="averageAccuracy" value="አማካይ ልክነት፣"/>
+</SimStrings>
