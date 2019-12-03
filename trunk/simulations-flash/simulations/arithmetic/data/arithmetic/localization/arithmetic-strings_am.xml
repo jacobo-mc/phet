@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--arithmetic-strings_am.xml created Mon Nov 25 08:11:43 GMT+08:00 2019 using: arithmetic 2.03.00 (51677), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="level" value="ደረጃ"/>
+<string key="typeAnswer" value="መልሶን ያስገቡ"/>
+<string key="clickToSelect" value="ለመምረጥ ጠቅ ያድርጉ"/>
+<string key="correct" value="ትክክል!"/>
+<string key="end" value="ጨርስ"/>
+<string key="isWrong" value="ስህተት ነው።"/>
+<string key="start" value="ጀምር"/>
+<string key="simTitle" value="የሒሳብ ስሌቶች"/>
+<string key="time" value="ጊዜ(ሰከንድ)"/>
+<string key="finalTime" value="አጠቃላይ የተጠቀሙት ሰዓት፤"/>
+<string key="multiply" value="ማባዛት"/>
+<string key="tryAgain" value="ዳግም ይሚክሩ"/>
+<string key="sound" value="ድምጽ"/>
+<string key="divide" value="ማካፈል"/>
+<string key="factor" value="ቀሪ"/>
+<string key="minute" value="ደቂቃ"/>
+<string key="finalScore" value="አጠቃላይ ውጤት፤"/>
+<string key="nbrRight" value="ትክክለኛ ፣"/>
+<string key="mustTypeNbr" value="ግዴታ ቁጥር ማስገባት አለቦት።"/>
+<string key="score" value="ውጤት፤"/>
+<string key="scorePer" value="ውጤት"/>
+<string key="translation.credits" value="Biniyam Gashaw,hibre-tech"/>
+<string key="nbrWrong" value="ስሁት ፣"/>
+<string key="reset" value="ዳግም አስጀምር"/>
+<string key="clock" value="ሰዓት"/>
+<string key="title" value="የሒሳብ ስሌቶች"/>
+</SimStrings>
