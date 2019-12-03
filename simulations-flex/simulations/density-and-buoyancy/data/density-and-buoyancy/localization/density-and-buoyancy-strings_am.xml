@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--density-and-buoyancy-strings_am.xml created Tue Nov 26 11:59:18 CST 2019 using: density-and-buoyancy 1.05.00 (50250), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+    <string key="buoyancy.tab.intro" value="intro"/>
+    <string key="properties.mass" value="ክብደት"/>
+    <string key="controlPanel.showVectorValues" value="የ ሀይል ዋጋ"/>
+    <string key="forceArrows.contact" value="ንክኪ"/>
+    <string key="mode.objectsOfSameVolume" value="ተመሳሳይ ይዘት"/>
+    <string key="mysteryObject.densityColumnHeader" value="ጥቅጥቅታ ({0})"/>
+    <string key="material.aluminum" value="አልሙኒየም"/>
+    <string key="material.air" value="አየር"/>
+    <string key="properties.massKilogram" value="ኪ.ግ"/>
+    <string key="material.custom" value="የኔ ብሎክ"/>
+    <string key="material.gasoline" value="ቤንዚን"/>
+    <string key="customObject.material" value="ቁሳቁሶች"/>
+    <string key="mode.mysteryObjects" value="የተደበቀ"/>
+    <string key="customObject.custom" value="የኔ ብሎክ"/>
+    <string key="properties.massKilogramValue" value="{0}ኪ.ግ"/>
+    <string key="material.wood" value="እንጨት"/>
+    <string key="mode.two" value="ሁለት"/>
+    <string key="material.styrofoam" value="Styrofoam"/>
+    <string key="material.honey" value="ማር"/>
+    <string key="material.apple" value="አፕል"/>
+    <string key="blockName.b" value="ለ"/>
+    <string key="blockName.a" value="ሀ"/>
+    <string key="material.ice" value="በረዶ"/>
+    <string key="buoyancy.tab.playground" value="የመንሳፈፍ ሀይል መጫወቻ ስፍራ"/>
+    <string key="translation.credits" value="&lt;html&gt;Name : Datago Abdurezak Mundino&lt;br&gt;E-mail: seadbis3@hotmail.com&lt;br&gt; &lt;html&gt;Study at: university of electronic science and technology of china(UESTC)&lt;/html&gt;&lt;/html&gt;&#10;"/>
+    <string key="fluid.controls.intro.label" value="ፈሳሽ"/>
+    <string key="mode.mysteryObjects.E" value="ሠ"/>
+    <string key="mode.mysteryObjects.D" value="መ"/>
+    <string key="mode.mysteryObjects.C" value="ሐ"/>
+    <string key="mode.mysteryObjects.B" value="ለ"/>
+    <string key="material.diamond" value="አልማዝ"/>
+    <string key="mode.mysteryObjects.A" value="ሀ"/>
+    <string key="mode.title" value="ብሎኮች"/>
+    <string key="material.oliveOil" value="ኦሊቭ ዘየት"/>
+    <string key="material.lead" value="እርሳስ"/>
+    <string key="forceArrows.buoyancy" value="የመንሳፈፍ ሀይል"/>
+    <string key="properties.fluidDensity" value="የፈሳሽ ጥቅጥቅታ"/>
+    <string key="mysteryObject.densityUnitsKgL" value="ኪ.ግ/ሊ"/>
+    <string key="customObject.properties" value="በህሪያት"/>
+    <string key="forceArrows.gravity" value="የመሬት ስበት"/>
+    <string key="properties.weightPoundValue" value="{0} ልብ"/>
+    <string key="mysteryObject.table.title" value="የተለያዩ ቁሳቁሶች ጥቅጥቅታ"/>
+    <string key="material.brick" value="ጡብ"/>
+    <string key="mysteryObject.material" value="ቁሳቁስ"/>
+    <string key="material.oil" value="ዘይት"/>
+    <string key="properties.volumeLiterValue" value="{0} ሊ"/>
+    <string key="mode.objectsOfSameDensity" value="ተመሳሳይ ጥቅጥቅታ"/>
+    <string key="controlPanel.readouts" value="ነባብ ዉጤቶች"/>
+    <string key="density.simTitle" value="ጥቅጥቅታ"/>
+    <string key="properties.volumeMilliLiterValue" value="{0} ሚ.ሊ"/>
+    <string key="mode.customObject" value="ልማድ"/>
+    <string key="mode.objectsOfSameMass" value="ተመሳሳይ ክብደት"/>
+    <string key="application.resetAll" value="እንደገና ጀምር"/>
+    <string key="material.gold" value="ወርቅ"/>
+    <string key="properties.densityValue" value="{0}ኪ.ግ/ሊ"/>
+    <string key="forceArrowControlPanelTitle" value="ሀይል አሳይ"/>
+    <string key="properties.weightNewtonValue" value="{0} ኒ"/>
+    <string key="customObject.name" value="ሥም"/>
+    <string key="controlPanel.showMasses" value="ክብደት"/>
+    <string key="material.water" value="ውሃ"/>
+    <string key="properties.massGramValue" value="{0} ግ"/>
+    <string key="properties.density" value="ጥቅጥቅታ"/>
+    <string key="material.waterBalloon" value="የውሃ ፊኛ"/>
+    <string key="mysteryObject.table.showTable" value="ሰንጠረዥ አሳይ"/>
+    <string key="mode.one" value="አንድ"/>
+    <string key="properties.volume" value="ይዘት"/>
+    <string key="buoyancy.simTitle" value="የመንሳፈፍ ሀይል"/>
+    <string key="properties.kilogramPerLiter" value="ኪ.ግ/ሊ"/>
+    <string key="properties.volumeLiter" value="ሊ"/>
+</SimStrings>
