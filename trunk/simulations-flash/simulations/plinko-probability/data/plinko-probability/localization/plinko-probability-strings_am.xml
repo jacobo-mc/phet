@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--plinko-probability-strings_am.xml created Mon Nov 25 09:59:56 GMT+08:00 2019 using: plinko-probability 2.02.00 (53818), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="start" value="ይጀመሩ"/>
+<string key="translation.credits" value="Biniyam Gashaw,Hibre-Tech"/>
+<string key="ball" value="ኳስ"/>
+<string key="number" value="ቁጥር"/>
+<string key="simTitle" value="የፒንኮ ይሆንታ(pinko probability)"/>
+<string key="help" value="እገዛ"/>
+<string key="continuous" value="ቅጥለታዊ"/>
+<string key="reset" value="ዳግም ይጀምሩ"/>
+<string key="stop" value="ያቁሙ"/>
+<string key="none" value="ምንም"/>
+<string key="histogramDisplay" value="ግጥም ጥርብ ግራፍ \n አሳይ"/>
+<string key="oneBall" value="1 ኳስ"/>
+<string key="show" value="አሳይ።"/>
+<string key="sound" value="ድምጽ"/>
+<string key="fraction" value="ክፍልፋይ"/>
+<string key="path" value="መንገድ"/>
+<string key="rows" value="ረድፍ"/>
+</SimStrings>
