@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--projectile-motion-strings_am.xml created Mon Nov 25 10:01:26 GMT+08:00 2019 using: projectile-motion 2.03.00 (52266), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="dragLabel" value="የጉተታ መጠን"/>
+<string key="userChoice" value="የተጠቃሚ ምርጫ"/>
+<string key="altitudeLabel" value="ከፍታ(ሜትር)"/>
+<string key="football" value="ኳስ"/>
+<string key="golfball" value="የጎልፍ ኳስ"/>
+<string key="simTitle" value="የፕሮጀክታይል እንቅስቃሴ"/>
+<string key="collision" value="ግጭት!"/>
+<string key="adultHuman" value="ሰው"/>
+<string key="time" value="ጊዜ(ሰከንድ)"/>
+<string key="buick" value="መኪና"/>
+<string key="diameter" value="የክበብ አጋማሽ"/>
+<string key="initSpeed" value="መነሻ ቶሎታ(ሜ/ስ)"/>
+<string key="bowlingball" value="ጎድጓዳ ኳስ"/>
+<string key="piano" value="ፒያኖ"/>
+<string key="sound" value="ድምጽ"/>
+<string key="range" value="ርቀት(ሜ)"/>
+<string key="height" value="ከፍታ(ሜትር)"/>
+<string key="mass" value="መጠነቁስ(ኪግ)"/>
+<string key="pumpkin" value="ዱባ"/>
+<string key="score" value="ውጤት"/>
+<string key="translation.credits" value="Biniyam Gashaw,hiber-Tech"/>
+<string key="angle" value="ዘዌ(ዲግሪ)"/>
+<string key="baseball" value="ቤዝቦል"/>
+<string key="airResistance" value="የአየር ተቃውሞ"/>
+<string key="fire" value="ቶክስ"/>
+<string key="erase" value="አጥፋ"/>
+<string key="tankshell" value="ታንክ"/>
+</SimStrings>
