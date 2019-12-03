@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--mass-spring-lab-strings_am.xml created Mon Nov 25 09:36:10 GMT+08:00 2019 using: mass-spring-lab 2.03.00 (49899), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="pause" value="ያቁሙ"/>
+<string key="earth" value="መሬት"/>
+<string key="16thTime" value="1/16 አጥፍ"/>
+<string key="mass3Label" value="250 ግራም"/>
+<string key="planetX" value="X ፕላኔት"/>
+<string key="showEnergyOf" value="ጉልበት አሳይ"/>
+<string key="hangMe" value="ክፍ ያድርጉ"/>
+<string key="resetTimer" value="ዳግም ይጀምሩ"/>
+<string key="hard" value="ጠንካራ"/>
+<string key="mass7Label" value="100 ግራም"/>
+<string key="translation.credits" value="Biniyam Gashaw,Hibre-tech"/>
+<string key="stopWatch" value=" ሰዓት መቁጠሪያ"/>
+<string key="none" value="ምንም"/>
+<string key="realTime" value="እውነተኛ ሰዓት"/>
+<string key="startTimer" value="ጀምር/ኣቁም"/>
+<string key="help4" value="ተጎታች ጊዜ መቁጠሪያ"/>
+<string key="showHelp" value="እገዛ"/>
+<string key="help2" value="ተጎታች የመጣቀሻ መስመር"/>
+<string key="help1" value="ተጎታች መስመሪያ"/>
+<string key="friction" value="እፍግታ"/>
+<string key="jupiter" value="ጁፒተር"/>
+<string key="moon" value="ጨረቃ"/>
+<string key="energyOf" value="ሃይል"/>
+<string key="total" value="ድምር"/>
+<string key="sound" value="ድምጽ"/>
+<string key="mass2Label" value="100 ግራም"/>
+<string key="thermal" value="ግለታዊ"/>
+<string key="quarterTime" value="1/4 እጥፍ"/>
+<string key="hideHelp" value="ይደብቁ"/>
+<string key="noHelp" value="እገዛ አልፈልግም"/>
+<string key="soft" value="ልስላሴ"/>
+<string key="softness" value="ልስላሳዊነት"/>
+<string key="totalE" value="ድምር E"/>
+<string key="simTitle" value="መጠነቁስ አካልሎች &amp; ነጣሪዎች"/>
+<string key="noShow" value="አያሳይ"/>
+<string key="paused" value="ቆሟል"/>
+</SimStrings>
