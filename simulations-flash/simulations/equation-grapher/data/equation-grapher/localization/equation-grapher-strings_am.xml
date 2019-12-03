@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--equation-grapher-strings_am.xml created Mon Nov 25 08:44:00 GMT+08:00 2019 using: equation-grapher 2.02.00 (52283), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="showYEq" value="አሳይ y="/>
+<string key="erase" value="ያጥፉ"/>
+<string key="save" value="ያስቀምጡ"/>
+<string key="zero" value="ዜሮ"/>
+<string key="simTitle" value="የአኩልታ ሳይ(Equation Grapher)"/>
+<string key="translation.credits" value="Biniyam Gashaw,Hibre-Tech"/>
+</SimStrings>
