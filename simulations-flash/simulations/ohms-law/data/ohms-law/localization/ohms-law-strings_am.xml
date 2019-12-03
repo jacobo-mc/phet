@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--ohms-law-strings_am.xml created Mon Nov 25 09:41:30 GMT+08:00 2019 using: ohms-law 2.03.00 (51206), translation-utility 2.18.00 (74383) May 29, 2015--><SimStrings>
+<string key="currentEq" value="የኤሌክትሪክ ጅራት(ከረንት)"/>
+<string key="resistance" value="የመቋቋም ሃይል"/>
+<string key="simTitle" value="የኦምስ ህግ"/>
+<string key="sound" value="ድምጽ"/>
+<string key="translation.credits" value="Biniyam Gashaw,Hibre-Tech"/>
+<string key="voltage" value="የኤሌክትሪክ ግፊት(ቮልቴጅ)"/>
+</SimStrings>
