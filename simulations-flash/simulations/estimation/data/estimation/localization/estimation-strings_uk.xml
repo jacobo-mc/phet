@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--estimation-strings_uk.xml created Tue Jul 21 11:48:31 EEST 2020 using: estimation 2.02.00 (51675), translation-utility 2.18.00 (74383) мая 28, 2015--><SimStrings>
+<string key="ratioOfAreasIs" value="Площа більша у"/>
+<string key="closeEnough" value="Достатньо близько ! \ nПравильна відповідь:"/>
+<string key="levelColon" value="Рівень:"/>
+<string key="score" value="Рахунок"/>
+<string key="EnterNumber" value="Введи число"/>
+<string key="selectTrainingOrGame" value="Виберіть тренування або гру:"/>
+<string key="percentUnderOver" value="відсоток від/над: ???"/>
+<string key="estimation" value="Наближані оцінювання?"/>
+<string key="next" value="Наступн."/>
+<string key="ratioOfLengths" value="співвідношення довжин для ліній \nспіввідношення площ для квадрата та кола \nспіввідношення об'ємів для кубів та сфер"/>
+<string key="exactAnswer" value="точна відповідь"/>
+<string key="level" value="Рівень"/>
+<string key="howMany" value="Скільки маленьких \n міститься у великому?"/>
+<string key="noCreditIf" value="Без дод. балів, якщо???"/>
+<string key="home" value="Додому"/>
+<string key="whatIsRatioOfVolumes" value="У скільки разів один об'єм більший за другий?"/>
+<string key="tooFarOff" value="Дуже далеко ! \nТочна відповідь:"/>
+<string key="translation.credits" value="Nina Dementievska"/>
+<string key="scorePerTimeColon" value="рахунок/час:"/>
+<string key="PleasePickANumber" value="Оберіть число від 1 до 100000."/>
+<string key="answerIsOutside" value="відповідь знаходиться за межами. "/>
+<string key="train" value="Тренування"/>
+<string key="strategyHelp" value="Допомога стратегії"/>
+<string key="whatIsRatioOfAreas" value="У скільки разів одна площа більша за другу?"/>
+<string key="scorePerTime" value="Рахунок/Час"/>
+<string key="gameOver" value="Гру завршено"/>
+<string key="play" value="Гра?"/>
+<string key="fullCreditIf" value="Повний кредит, якщо"/>
+<string key="back" value="назад"/>
+<string key="levelOneColon" value="Рівень 1: Тільки лінії \ Рівень 2: Лінії та 2D об'єкти \ Рівень 3: Усі об'єкти"/>
+<string key="yourAnswer" value="твоя відповідь"/>
+<string key="or" value="або2"/>
+<string key="sound" value="Звук"/>
+<string key="accuracyIsSmaller" value="Точність менша ніж:"/>
+<string key="averageAccuracy" value="середня точність:"/>
+<string key="gameRules" value="Правила гри"/>
+<string key="ratioOfVolumesIs" value="Одна сфера більше другої у"/>
+<string key="time" value="Час(сек)"/>
+<string key="numberEstimates" value="кількість передбачень:"/>
+<string key="simTitle" value="Наближене оцінювання"/>
+<string key="yourAnswerIs" value="ваша відповідь - \nкоефіц. 1,3 для ліній, \nкоефіц. 1,6 для двовимірних об'єктів, \nкоефіц. 2,0 для 3D-об'єктів."/>
+<string key="enter" value="Введіть"/>
+<string key="endGame" value="Кінець гри"/>
+<string key="nextLowerCase" value="наступн."/>
+</SimStrings>
