@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--resonance-strings_uk.xml created Fri Jul 17 14:44:17 EEST 2020 using: resonance 1.01.00 (54775), translation-utility 2.18.00 (74383) мая 28, 2015--><SimStrings>
+<string key="simSpeed" value="швидкість симуляції"/>
+<string key="sameFrequency" value="така ж частота"/>
+<string key="sameSpring" value="такий же k пружини"/>
+<string key="slow" value="повільно"/>
+<string key="mixedMAndK" value="різні m і k"/>
+<string key="numberOfResonators" value="Кількість резонаторів"/>
+<string key="kg" value="кг"/>
+<string key="pause" value="пауза"/>
+<string key="amplitude" value="амплітуда"/>
+<string key="frequencyEqualsXHz" value="частота = {0} Гц"/>
+<string key="sloMo" value="Спов. рух"/>
+<string key="step" value="крок"/>
+<string key="cm" value="см"/>
+<string key="driver" value="КОЛ. МАШИНА"/>
+<string key="on" value="вкл."/>
+<string key="ruler" value="Лінійка"/>
+<string key="resonance.simTitle" value="Резонанс"/>
+<string key="NperMperS" value="Н/(м/с)"/>
+<string key="springConstant" value="постійна пружини"/>
+<string key="frequency" value="частота"/>
+<string key="resetAll" value="Перевст. все"/>
+<string key="mass" value="маса"/>
+<string key="sameMass" value="така ж маса"/>
+<string key="resonator" value="Резонатор"/>
+<string key="translation.credits" value="Nina Dementievska"/>
+<string key="hz" value="Гц"/>
+<string key="NperM" value="Н/м"/>
+<string key="gravityColon" value="Гравітація:"/>
+<string key="play" value="запуск"/>
+<string key="paused" value="ПРИЗУП."/>
+<string key="off" value="вимкн."/>
+<string key="dampingConstant" value="коефіцієнт затухання"/>
+<string key="normal" value="норм."/>
+<string key="selectPreset" value="Попер.встановл."/>
+</SimStrings>
