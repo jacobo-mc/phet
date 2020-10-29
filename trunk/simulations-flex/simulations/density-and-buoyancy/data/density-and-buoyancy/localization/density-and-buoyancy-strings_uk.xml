@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--density-and-buoyancy-strings_uk.xml created Tue Oct 22 20:23:06 EEST 2019 using: density-and-buoyancy 1.05.00 (50250), translation-utility 2.18.00 (74383) мая 28, 2015--><SimStrings>
+<!--density-and-buoyancy-strings_uk.xml created Wed Oct 28 20:53:46 EET 2020 using: density-and-buoyancy 1.05.00 (50250), translation-utility 2.18.00 (74383) мая 28, 2015--><SimStrings>
 <string key="buoyancy.tab.intro" value="Вступ"/>
 <string key="properties.mass" value="Маса"/>
-<string key="controlPanel.showVectorValues" value="Сила"/>
-<string key="forceArrows.contact" value="Різн."/>
+<string key="controlPanel.showVectorValues" value="Значення сили"/>
+<string key="forceArrows.contact" value="Сила реакції опори"/>
 <string key="mode.objectsOfSameVolume" value="Однаковий об'єм"/>
 <string key="mysteryObject.densityColumnHeader" value="Густина({0})"/>
 <string key="material.aluminum" value="Алюміній"/>
 <string key="properties.massKilogram" value="кг"/>
 <string key="material.air" value="Повітря"/>
-<string key="material.custom" value="Мій блок"/>
+<string key="material.custom" value="Мій брусок"/>
 <string key="material.gasoline" value="Бензин"/>
 <string key="customObject.material" value="Матеріал "/>
 <string key="mode.mysteryObjects" value="Невідом."/>
-<string key="customObject.custom" value="Мій блок"/>
+<string key="customObject.custom" value="Мій брусок"/>
 <string key="material.wood" value="Дерево"/>
 <string key="properties.massKilogramValue" value="{0} кг"/>
 <string key="mode.two" value="Два"/>
@@ -31,14 +31,14 @@
 <string key="mode.mysteryObjects.B" value="Б"/>
 <string key="material.diamond" value="Алмаз"/>
 <string key="mode.mysteryObjects.A" value="А"/>
-<string key="mode.title" value="Блоки"/>
+<string key="mode.title" value="Бруски"/>
 <string key="material.oliveOil" value="Оливкова олія"/>
 <string key="material.lead" value="Свинець"/>
-<string key="forceArrows.buoyancy" value="Плавучість"/>
+<string key="forceArrows.buoyancy" value="Виштовхувальна сила"/>
 <string key="properties.fluidDensity" value="Густина рідини"/>
 <string key="mysteryObject.densityUnitsKgL" value="кг/л"/>
 <string key="customObject.properties" value="Властивості"/>
-<string key="forceArrows.gravity" value="Гравітація"/>
+<string key="forceArrows.gravity" value="Сила тяжіння"/>
 <string key="material.brick" value="Цегла"/>
 <string key="mysteryObject.material" value="Матеріал"/>
 <string key="mysteryObject.table.title" value="Густина різних матеріалів"/>
@@ -65,7 +65,7 @@
 <string key="mysteryObject.table.showTable" value="Покзати таблицю"/>
 <string key="mode.one" value="Один"/>
 <string key="properties.volume" value="Об'єм"/>
-<string key="buoyancy.simTitle" value="Плавучість"/>
+<string key="buoyancy.simTitle" value="Виштовхувальна сила "/>
 <string key="properties.kilogramPerLiter" value="кг/л"/>
 <string key="properties.volumeLiter" value="л"/>
 </SimStrings>
