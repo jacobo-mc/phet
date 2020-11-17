@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--my-solar-system-strings_ru.xml created Sat Nov 07 09:57:26 YEKT 2020 using: my-solar-system 2.04.00 (72347), translation-utility 2.18.00 (74383) мая 28, 2015--><SimStrings>
+<string key="fourStarBallet" value="4 звезды"/>
+<string key="massEquals" value="Масса="/>
+<string key="trojanAsteroids" value="Троянцы"/>
+<string key="systemCentered" value="Центр"/>
+<string key="start" value="Старт"/>
+<string key="simTitle" value="Солнечная система"/>
+<string key="doubleDouble" value="Две двойные"/>
+<string key="doubleSlingshot" value="Двойная &quot;рогатка&quot;"/>
+<string key="hyperbolics" value="Гиперболы"/>
+<string key="sunPlanetMoon" value="Звезда, планета, Луна"/>
+<string key="body4" value="Тело 4"/>
+<string key="velocity" value="Скорость"/>
+<string key="body3" value="Тело 3"/>
+<string key="numberOfBodies" value="Количество тел"/>
+<string key="body2" value="Тело 2"/>
+<string key="body1" value="Тело1"/>
+<string key="showTraces" value="Траектория"/>
+<string key="binaryStarPlanet" value="Двойная звезда, планета"/>
+<string key="initialSettings" value="Установки"/>
+<string key="fast" value="быстро"/>
+<string key="showGrid" value="Сетка"/>
+<string key="sunPlanetComet" value="Звезда, планета, комета"/>
+<string key="mass" value="Масса"/>
+<string key="back" value="назад"/>
+<string key="ellipses" value="Эллипсы"/>
+<string key="stop" value="Стоп"/>
+<string key="help" value="Помощь"/>
+<string key="timeEquals" value="Время="/>
+<string key="accurate" value="медленно"/>
+<string key="sunAndPlanet" value="Звезда, планеты"/>
+<string key="reset" value="Сброс"/>
+<string key="tapeMeasure" value="Расстояние"/>
+<string key="position" value="Положение"/>
+<string key="selectPreset" value="Выбор"/>
+<string key="slingshot" value="&quot;Рогатка&quot;"/>
+</SimStrings>
