@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--geometric-optics-strings_uk.xml created Wed Nov 04 04:39:21 EET 2009 using: geometric-optics 2.03.00 (32366), translation-utility 2.03.00 (36202) жовт 29, 2009-->
-<SimStrings>
-<string key="draggableScreen" value="пересувний екран"/>
-<string key="draggableLens" value="пересувна лінза"/>
+<!--geometric-optics-strings_ukr.xml created Thu Nov 19 16:36:59 EET 2020 using: geometric-optics 2.05.00 (52650), translation-utility 2.18.00 (74383) мая 28, 2015--><SimStrings>
+<string key="draggableScreen" value="рухомий екран"/>
+<string key="draggableLens" value="рухома лінза"/>
 <string key="screen" value="Екран"/>
-<string key="draggableRuler" value="пересувна лінійка"/>
+<string key="draggableRuler" value="рухома лінійка"/>
 <string key="simTitle" value="Геометрична оптика"/>
 <string key="showHelp" value="Допомога"/>
-<string key="moveMe" value="Пересунь мене!"/>
-<string key="showGuides" value="Показати правИла"/>
+<string key="moveMe" value="Рухай мене!"/>
+<string key="showGuides" value="Показати вказівники"/>
 <string key="diameter" value="діаметр(м)"/>
 <string key="ruler" value="Лінійка"/>
 <string key="focalPoint" value="фокус"/>
 <string key="curvatureRadius" value="радіус кривизни(м)"/>
 <string key="changeObject" value="Змінити об'єкт"/>
 <string key="principalRays" value="Основні промені"/>
-<string key="marginalRays" value="Промені з краю"/>
+<string key="marginalRays" value="Межові промені"/>
 <string key="virtualImage" value="Уявне зображення"/>
 <string key="noRays" value="Без променів"/>
 <string key="secondSource" value="Друга точка"/>
 <string key="hideHelp" value="Без допомоги"/>
 <string key="refractiveIndex" value="показник заломлення"/>
-<string key="manyRays" value="Багато променів"/>
+<string key="manyRays" value="Декілька променів"/>
 </SimStrings>
